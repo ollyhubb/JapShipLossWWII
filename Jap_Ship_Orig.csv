@@ -1,0 +1,688 @@
+﻿Month,Day,Year,Type of Vessel,Location,Standard Tonnage,Location,Flag of Agent,Type of Agent,Assessment
+December,10,1941,I 170,Submarine,"1,785","23-45N, 155-35W",United States,Navy Carrier-Based Aircraft,Sunk
+,10,,MINESWEEPER NO 10,Minesweeper,630,"17-32N, 120-22E",United States,Army Aircraft,Sunk
+,10,,MINESWEEPER NO 19,Minesweeper,492,"18-22N, 121-38E",United States,Army Aircraft,Sunk
+,11,,HAYATE,Destroyer,"1,270","19-16N, 166-37E",United States,Navy Shore-Battery,Sunk
+,11,,KISARAGI,Destroyer,"1,500","19-16N, 166-37E",United States,Navy Shore-Battery,Sunk
+,17,,RO 66,Submarine,988,"19-25N, 166-30E",Japan,Marine Casualty,Sunk
+,18,,SHINONOME,Destroyer,"1,950","4-24N, 114-00E",Netherlands,Mine,Sunk
+,22,,PATROL BOAT NO 32,Old Destroyer,750,"19-17N, 166-35E",Japan,Marine Casualty,Sunk
+,22,,PATROL BOAT NO 33,Old Destroyer,750,"19-17N, 166-35E",Japan,Marine Casualty,Sunk
+,24,,SAGIRI,Destroyer,"1,950","1-34N, 110-21E",Netherlands,Submarine,Sunk
+,26,,MINESWEEPER NO 6,Minesweeper,615,"1-34N, 110-21E",Netherlands,Army Aircraft,Sunk
+,29,,RO 60,Submarine,988,"9-00N, 167-40E",Japan,Marine Casualty,Sunk
+January,12,1942,MINESWEEPER NO 13,Minesweeper,492,"3-15N, 113-35E",Netherlands,Shore Battery,Sunk
+,12,,MINESWEEPER NO 14,Minesweeper,492,"3-15N, 113-35E",Netherlands,Shore Battery,Sunk
+,17,,I 160,Submarine,"1,635","6-00S, 105-00E",Great Britain,Surface Craft,Sunk
+,20,,I 124,Submarine,"1,142","12-05S, 130-06E",United States,Surface Craft,Sunk
+,24,,PATROL BOAT NO 37,Old Destroyer,750,"00-10N, 118-00E",United States,Surface Craft,Sunk
+,27,,I 173,Submarine,"1,785","28-24N, 178-35E",United States,Submarine,Sunk
+,29,,I 23,Submarine,"2,212","20-35N, 155-29W",United States,Surface Craft,Sunk
+February,2,1942,MINESWEEPER NO 9,Minesweeper,630,"3-42S, 128-10E",Netherlands,Mine,Sunk
+,8,,NATSUSHIO,Destroyer,"1,900","5-10S, 119-24E",United States,Submarine,Sunk
+April,3,1942,UNKNOWN,Frigate,750,"00-36N, 119-19E",United States,Submarine,Probably sunk
+,26,,RO 30,Submarine,965,"18-11N, 166-54W",United States,Submarine,Sunk
+May        ,2,1942,MIZUHO,Seaplane Tender,"9,000","34-26N, 138-14E",United States,Submarine,Sunk
+,4,,KIKUTSUKI,Destroyer,"1,500","9-07S, 160-12E",United States,Navy Carrier-,Sunk
+,7,,SHOHO,Light Aircraft Carrier,"12,000","10-29S, 152-55E",United States,Navy Carrier-,Sunk
+,11,,OKINOSHIMA,Minelayer,"4,400","5-06S, 153-48E",United States,Submarine,Sunk
+,17,,I 28,Submarine,"2,212","6-30N, 152-00E",United States,Submarine,Sunk
+,17,,I 164,Submarine,"1,625","29-25N, 134-09E",United States,Submarine,Sunk
+,25,,ASAHI,Repair Ship,"11,441","10-00N, 110-00E",United States,Submarine,Sunk
+June,1,1942,RO 35,Submarine,965,Pacific Area,Japan,Marine Casualty,Sunk
+,4,,AKAGI,Aircraft Carrier,"36,000","30-00N, 179-00W",United States,Navy Carrier-,Sunk
+,4,,KAGA,Aircraft Carrier,"35,000","30-00N, 179-00W",United States,Navy Carrier-,Sunk
+,4,,HIRYU,Light Aircraft Carrier,"17,500","31-15N, 179-05E",United States,Navy Carrier-,Sank
+,4,,SORYU,Light Aircraft Carrier,"17,500","30-13N, 179-17W",United States,Navy Carrier-,Sunk
+,6,,MIKUMA,Heavy Cruiser,"13,000","30-00N, 173-00E",United States,Navy Carrier-,Sunk
+,25,,YAMAKAZE,Destroyer,"1,580","34-34N, 140-26E",United States,Submarine,Sunk
+July,4,1942,NENOHI,Destroyer,"1,600","52-15N, 173-51E",United States,Submarine,Sunk
+,5,,ARARE,Destroyer,"1,850","52-00N, 177-40E",United States,Submarine,Sunk
+,9,,RO 32,Submarine,700,"55-20N, 134-40W",United States Great Britain,Surface Craft Aircraft,Sunk
+,15,,SUBMARINE CHASER NO 25,Submarine Chaser,300,"52-02N, 177-42E",United States,Submarine,Sunk
+,15,,SUBMARINE CHASER NO 27,Submarine Chaser,300,"52-02N, 177-42E",United States,Submarine,Sunk
+August,10,1942,KAKO,Heavy Cruiser,"8,800","2-15S, 152-15E",United States,Submarine,Sunk
+,24,,RYUJO,Light Aircraft Carrier,"8,500","6-20S, 160-50E",United States,Navy Carrier-,Sunk
+,25,,MUTSUKI,Destroyer,"1,500","7-47S, 160-13E",United States,Army Aircraft,Sunk
+,28,,I 123,Submarine,"1,142","9-21S, 160-43E",United States,Surface Craft,Sunk
+,28,,ASAGIRI,Destroyer,"1,950","8-00S, 160-10E",United States,Marine Land-,Probably sunk
+,29,,RO 33,Submarine,700,"9-36S, 147-06E",Great Britain,Surface Craft,Sunk
+,31,,RO 61,Submarine,988,"52-36N, 173-57N",United States,Navy Land-,Sunk
+September,33,1942,RO 65,Submarine,988,North Pacific,Unknown,Unknown,Sunk
+,11,,YAYOI,Destroyer,"1,500","8-45S, 151-25E",United States,Army Aircraft,Sunk
+October,33,1942,I 30,Submarine,"2,212","l-00N, 105-00E",Great Britain,Mine,Sunk
+,11,,FURUTAKA,Heavy Cruiser,"8,800","9-00S, 159-50E",United States,Surface Craft,Sunk
+,11,,FUBUKI,Destroyer,"1,950","9-10S, 159-40E",United States,Surface Craft,Sunk
+,11,,NATSUGUMO,Destroyer,"1,850","9-10S, 159-40E",United States,Surface Craft,Sunk
+,12,,MURAKUMO,Destroyer,"1,950","8-40S, 158-20E",United States,Navy Land-,Sunk
+,16,,OBORO,Destroyer,"1,950","52-17N, 178-08E",United States,Army Aircraft,Sunk
+,25,,YURA,Light Cruiser,"5,700","8-40S, 160-00E",United States,Army Aircraft,Sunk
+November,10,1942,I 172,Submarine,"1,785","10-13S, 161-09E",United States,Surface Craft,Sunk
+,13,,AKATSUKI,Destroyer,"1,950","9-10S, 159-45E",United States,Surface Craft,Sunk
+November,13,1942,YUDACHI,Destroyer,"1,580","9-10S, 149-45E",United States,Surface Craft,Sunk
+,13,,HIYEI,Battleship,"31,000","9-00S, 159-00E",United States,Army Aircraft,Sunk
+,14,,KINUGASA,Heavy Cruiser,"8,800","8-45S, 157-10E",United States,Navy Carrier-,Sunk
+,15,,KIRISHIMA,Battleship,"31,000","9-10S, 159-55E",United States,Surface Craft,Sunk
+,15,,AYANAMI,Destroyer,"1,950","9-00S, 159-45E",United States,Surface Craft,Sunk
+,24,,HAYASHIO,Destroyer,"1,900","7-00S, 140-30E",United States,Army Aircraft,Sunk
+,30,,TAKANAMI,Destroyer,"1,900","9-10S, 159-45E",United States,Surface Craft,Sunk
+December,10,1942,I 3,Submarine,"1,995","9-14S, 159-40E",United States,Surface Craft,Sunk
+,12,,TERUTSUKI,Destroyer,"2,450","7-50S, 157-30E",United States,Surface Craft,Sunk
+,16,,I 15,Submarine,"2,212","9-10S, 159-30E",United States,Navy Land-,Sunk
+,18,,TENRYU,Light Cruiser,"3,300","5-11S, 145-57E",United States,Submarine,Sunk
+,20,,I 4,Submarine,"1,995","5-02S, 152-33E",United States,Submarine,Sunk
+,22,,PATROL BOAT NO 35,Old Destroyer,750,"5-05S, 156-04E",United States,Submarine,Sunk
+,25,,I 22,Submarine,"2,180","8-32S, 148-17E",United States,Surface Craft,Sunk
+January,2,1943,I 18,Submarine,"2,180","8-49S, 157-09E",United States,Submarine,Sunk
+,10,,OKIKAZE,Destroyer,"1,300","35-02N, 140-12E",United States,Submarine,Sunk
+,12,,PATROL BOAT NO 1,Old Destroyer,750,"2-51S, 149-43E",United States,Submarine,Sunk
+,23,,HAKAZE,Destroyer,"1,300","2-47S, 150-38E",United States,Submarine,Sunk
+,29,,I 1,Submarine,"2,135","9-13S, 159-37E",New Zealand,Surface Craft,Sunk
+February,1,1943,MAKIGUMO,Destroyer,"1,900","9-10S, 159-45E",United States,Navy line,Sunk
+,11,,RO 102,Submarine,525,"14-15S, 161-59E",United States,Navy Carrier-,Sunk
+,20,,OSHIO,Destroyer,"1,850","00-50S, 146-06E",United States,Submarine,Sunk
+,20,,UNKNOWN,Frigate,750,"00-50S, 146-06E",United States,Submarine,Sunk
+March,3,1943,ARASHIO,Destroyer,"1,850","7-15S, 148-30E",United States,Army Aircraft,Sunk
+,3,,ASASHIO,Destroyer,"1,850","7-10S, 148-15E",United States,Army Aircraft,Sunk
+,3,,TOKITSUKAZE,Destroyer,"1,900","7-15S, 148-30E",United States,Army Aircraft,Sunk
+,3,,SHIRAYUKI,Destroyer,"1,950","7-15S, 148-30E",United States,Army Aircraft,Sunk
+,6,,MINEGUMO,Destroyer,"1,850","8-05S, 157-15E",United States,Surface Craft,Sunk
+,6,,MURASAME,Destroyer,"1,580","8-05S, 157-15E",United States,Surface Craft,Sunk
+April,3,1943,SUBMARINE CHASER NO 13,Submarine Chaser,440,"40-00N, 142-00E",United States,Submarine,Sunk
+,4,,RO 34,Submarine,700,"8-15S, 158-55E",United States,Surface Craft,Sunk
+,9,,ISONAMI,Destroyer,"1,950","5-26S, 123-04E",United States,Submarine,Sunk
+,23,,PATROL BOAT NO 39,Old Destroyer,820,"23-45N, 122-45E",United States,Submarine,Sunk
+May      ,8,1943,KUROSHIO,Destroyer,"1,900","8-05S, 156-55E",United States,Navy Mine,Sunk
+,8,,OYASHIO,Destroyer,"1,900","8-05S, 156-55E",United States,Navy Land-,Sunk
+,8,,KAGERO,Destroyer,"1,900","8-05S, 156-55E",United States,Navy Land-Based Aircraft,Sunk
+,28,,RO 107,Submarine,525,"15-35S, 167-17E",United States,Surface Craft,Sunk
+June,8,1943,MUTSU,Battleship,"37,500","34-05N, 132-20E",Japan,Marine Casualty,Sunk
+,10,,I 9,Submarine,"2,443","53-16N, 174-24E",United States,Surface Craft,Sunk
+,13,,I 31,Submarine,"2,212","52-08N, 177-38E",United States,Surface Craft,Sunk
+,22,,I 7,Submarine,"1,995","51-49N, 177-20E",United States,Surface Craft,Sunk
+July,1,1943,RO 101,Submarine,525,"8-39S, 157-35E",United States,Surface Craft,Sunk
+,6,,NAGATSUKI,Destroyer,"1,500","7-57S, 157-12E",United States,Surface Craft,Sunk
+,6,,NIIZUKI,Destroyer,"2,450","7-57S, 157-12E",United States,Surface Craft,Sunk
+,11,,I 25,Submarine,"2,212","8-00S, 157-19E",United States,Surface Craft,Sunk
+,13,,JINTSU,Light Cruiser,"5,900","7-36S, 157-06E",United States,Surface Craft,Sunk
+,17,,HATSUYUKI,Destroyer,"1,950","6-50S, 155-47E",United States,Army Aircraft,Sunk
+,20,,KIYONAMI,Destroyer,"2,100","7-13S, 156-45E",United States,Army Aircraft,Sunk
+,20,,YUGURE,Destroyer,"1,600","7-25S, 156-45E",United States,Navy Land-,Sunk
+July,22,1943 ,NISSHIN,Seaplane Tender,"9,000","6-35S, 156-10E",United States,Army Aircraft,Sunk
+,27,,HIRASHIMA,Special Minelayer,720,"32-32N, 127-41E",United States,Submarine,Sunk
+,27,,I 24,Submarine,"2,180","2-50S, 149-01E",United States,Submarine,Sunk
+,28,,ARIAKE,Destroyer,"1,600","5-27S, 148-25E",United States,Army Aircraft,Sunk
+,28,,MIKATSUKI,Destroyer,"1,500","5-27S, 148-25E",United States,Army Aircraft,Sunk
+August,2,1943,MOTOR TORPEDO BOAT NO 112,Torpedo Boat,500,"6-40S, 146-50E",United States,Army Aircraft,Sunk
+,2,,MOTOR TORPEDO BOAT NO 113,Torpedo Boat,500,"6-40S, 146-50E",United States,Army Aircraft,Sunk
+,6,,ARASHI,Destroyer,"1,900","7-50S, 156-47E",United States,Surface Craft,Sunk
+,6,,HAGIKAZE,Destroyer,"1,900","7-50S, 156-47E",United States,Surface Craft,Sunk
+,6,,KAWAKAZE,Destroyer,"1,580","7-50S, 156-47E",United States,Surface Craft,Sunk
+,18,,SPECIAL SUBMARINE CHASER NO 5,Special Submarine Chaser,100,"7-26S, 156-45E",United States,Surface Craft,Sunk
+,18,,SPECIAL SUBMARINE CHASER NO 12,Special Submarine Chaser,100,"7-26S, 156-45E",United States,Surface Craft,Sunk
+,19,,I 17,Submarine,"2,212","23-26S, 166-50E",United States,Navy Land-,Sunk
+,19,,SPECIAL SUBMARINE CHASER NO 109,Special Submarine Chaser,200,"3-01S, 125-50E",United States,Submarine,Sunk
+,25,,I 178,Submarine,"1,630","12-57S, 164-23E",United States,Surface Craft,Sunk
+September,2,1943,MUTSURE,Frigate,860,"8-40N, 151-31E",United States,Submarine,Sunk
+,3,,I 168,Submarine,"1,785","13-10S, 165-28E",United States,Surface Craft,Sunk
+,9,,I 182,Submarine,"1,630","10-33N, 125-31E",United States,Submarine,Sunk
+,11,,MINESWEEPER NO 16,Minesweeper,492,"6-08S, 119-20E",Australia,Mine,Sunk
+,15,,RO 103,Submarine,525,"10-57S, 163-56E",United States,Navy Land-,Sunk
+,26,,KASASAGI,Torpedo Boat,595,"5-50S, 121-57E",United States,Submarine,Sunk
+,30,,PETEREL,River Gunboat,310,"21-12N, 110-24E",United States,Army Aircraft,Sunk
+October,1,1943,I 20,Submarine,"2,180","7-40S, 157-10E",United States,Surface Craft,Sunk
+,6,,YUGUMO,Destroyer,"1,900","7-32S, 156-20E",United States,Surface Craft,Sunk
+,12,,BOKO,Special Minelayer,400,"4-35S, 152-11E",United States,Army Aircraft,Sunk
+,16,,SPECIAL SUBMARINE CHASER NO 31,Special Submarine Chaser,100,"4-00S, 152-00E",United States,Army Aircraft,Sunk
+,24,,MOCHITSUKI,Destroyer,"1,500","5-42S, 151-40E",United States,Navy Land-,Sunk
+November,2,1943,SENDAI,Light Cruiser,"5,900","6-20S, 154-20E",United States,Surface Craft,Sunk
+,2,,HATSUKAZE,Destroyer,"1,900","6-20S, 154-20E",United States,Surface Craft,Sunk
+,2,,MINESWEEPER NO 26,Minesweeper,500,"4-13S, 152-11E",United States,Army Aircraft,Sunk
+,4,,TSUKUSHI,Surveying Ship,"2,000","2-40S, 150-40E",Australia,Mine,Sunk
+,4,,SPECIAL SUBMARINE CHASER NO 30,Special Submarine Chaser,100,"7-34N, 134-0E",United States,Submarine,Sunk
+,6,,SUBMARINE CHASER NO 11,Submarine Chaser,270,"5-26S, 154-33E",United States,Army Aircraft,Sunk
+,11,,SUZUNAMI,Destroyer,"2,100","4-13S, 152-11E",United States,Navy Carrier-,Sunk
+,12,,I 34,Submarine,"2,212","5-17N, 100-05E",Great Britain,Submarine,Sunk
+,16,,UKISHIMA,Special Minelayer,720,Off Japan,Unknown,Unknown,Sunk
+,18,,SANAYE,Old Destroyer,820,"4-52N, 122-07E",United States,Submarine,Sunk
+,23,,I 35,Submarine,"2,212","1-22N, 172-47E",United States,Surface Craft,Sunk
+,23,,WAKAMIYA,Frigate,860,"28-49N, 122-11E",United States,Submarine,Sunk
+,25,,I 19,Submarine,"2,212","3-10N, 171-55E",United States,Surface Craft,Sunk
+,25,,YUGIRI,Destroyer,"1,950","4-48S, 153-55E",United States,Surface Craft,Sunk
+,25,,MAKINAMI,Destroyer,"1,900","5-06S, 153-44E",United States,Surface Craft,Sunk
+,25,,ONAMI,Destroyer,"2,100","5-06S, 153-44E",United States,Surface Craft,Sunk
+December,33,1943,RO 38,Submarine,965,Pacific Ocean,Unknown,Unknown,Sunk
+,4,,CHUYO,Escort Aircraft Carrier,"20,000","32-37N, 143-39E",United States,Submarine,Sunk
+,16,,I 179,Submarine,"1,630","4-28S, 147-22E",United States,Navy Land-,Sunk
+,19,,NUMAKAZE,Destroyer,"1,300","26-29N, 128-26E",United States,Submarine,Sunk
+,20,,FUYO,Old Destroyer,820,"14-44N, 119-55E",United States,Submarine,Sunk
+,23,,I 39,Submarine,"2,212","9-23S, 160-09E",United States,Surface Craft,Sunk
+,23,,NANYO,Gunboat,"1,200","25-30N, 119-30E",United States,Army Aircraft,Sunk
+,25,,MINESWEEPER NO 31,Minesweeper,492,"2-36S, 150-49E",United States,Navy Carrier-,Probably sunk
+January,33,1944,I 181,Submarine,"1,630",Off New Guinea,Unknown,Unknown,Sunk
+,11,,KUMA,Light Cruiser,"5,700","6-00N, 99-00E",Great Britain,Submarine,Sunk
+,14,,SAZANAMI,Destroyer,"1,950","5-15N, 141-15E",United States,Submarine,Sunk
+,15,,PING SANG,Yacht,171,"21-00N, 107-22E",United States,Army Aircraft,Sunk
+,22,,I 48,Submarine,"2,180","9-45N, 138-20E",United States,Surface Craft,Sunk
+,22,,RO 37,Submarine,965,"11-47S, 164-17E",United States,Surface Craft,Sunk
+,22,,SPECIAL SUBMARINE CHASER NO 40,Special Submarine Chaser,100,"1-50S, 147-20E",United States,Army Aircraft,Sunk
+,26,,SPECIAL SUBMARINE CHASER NO 14,Special Submarine Chaser,130,"11-10N, 163-25E",United States,Navy Land-,Sunk
+,26,,SUZUKAZE,Destroyer,"1,580","8-51N, 157-10E",United States,Submarine,Sunk
+January,30,1944,SPECIAL SUBMARINE CHASER NO 28,Special Submarine Chaser,100,"8-42N, 167-441",United States,Navy Carrier-,Sunk
+,30,,SPECIAL SUBMARINE CHASER NO 25,Special Submarine Chaser,100,"8-42N, 167-44E",United States,Navy Carrier-,Sunk
+,30,,SPECIAL SUBMARINE CHASER NO 21,Special Submarine Chaser,100,"8-42N, 167-44E",United States,Navy Carrier-,Sunk
+,30,,SPECIAL SUBMARINE CHASER NO 19,Special Submarine Chaser,100,"8-42N, 167-44E",United States,Navy Carrier-,Sunk
+,30,,SPECIAL SUBMARINE CHASER NO 18,Special Submarine Chaser,100,"8-42N, 167-44E",United States,Navy Carrier-,Sunk
+,31,,I 171,Submarine,"1,785","5-37S, 154-14E",United States,Surface Craft,Sunk
+,31,,SPECIAL SUBMARINE CHASER NO 33,Special Submarine Chaser,100,"8-42N, 167-44E",United States,Navy Carrier-,Sunk
+,31,,NASAMI,Special Minelayer,443,"9-50N, 147-06E",United States,Submarine,Sunk
+February,33,1944,I 40,Submarine,"2,212",Marshall Islands,Unknown,Unknown,Sunk
+,1,,RO 39,Submarine,965,"9-24N, 170-32E",United States,Surface Craft,Sunk
+,1,,UMIKAZE,Destroyer,"1,580","7-10N, 151-43E",United States,Submarine,Sunk
+,4,,I 21,Submarine,"2,212","6-48N, 168-08E",United States,Surface Craft,Sunk
+,10,,MINEKAZE,Destroyer,"1,300","23-12N, 121-30E",United States,Submarine,Sunk
+,11,,RO 110,Submarine,525,"17-25N, 83-21E",Australia,Surface Craft,Sunk
+,33,,,,,,India,Surface Craft,
+,12,,I 27,Submarine,"2,212","1-25N, 72-22E",Great Britain,Surface Craft,Sunk
+,15,,I 43,Submarine,"2,212","12-42N, 49-17E",United States,Submarine,Sunk
+,16,,RO 40,Submarine,965,"9-50N, 166-35E",United States,Surface Craft,Sunk
+,16,,SPECIAL SUBMARINE CHASER NO. 16,Special Submarine Chaser,100,"2-24S, 150-06E",United States,Army Aircraft,Sunk
+,16,,AGANO,Light Cruiser,"7,000","10-11N, 151-42E",United States,Submarine,Sunk
+,17,,I 11,Submarine,"2,443","10-34N, 173-31E",United States,Surface Craft,Sunk
+,17,,SUBMARINE CHASER NO 24,Submarine Chaser,300,"7-24N, 150-30E",United States,Surface Craft,Sunk
+,17,,NAKA,Light Cruiser,"5,900","7-15N, 151-15E",United States,Navy Carrier-,Sunk
+,17,,FUMITSUKI,Destroyer,"1,500","7-24N, 151-44E",United States,Navy Carrier-,Sunk
+,17,,TACHIKAZE,Destroyer,"1,300","7-04N, 151-55E",United States,Navy Carrier-Based Aircraft,Sunk
+February,17,1944,MAIKAZE,Destroyer,"1,900","7-45N, 151-20E",United States,Navy Carrier-,Sunk
+,17,,OITE,Destroyer,"1,270","7-40N, 151-45E",United States,Navy Carrier-,Sunk
+,17,,SUBMARINE CHASER NO 29,Submarine Chaser,270,"7-25N, 151-45E",United States,Navy Carrier-,Sunk
+,17,,SPECIAL SUBMARINE CHASER NO 29,Special Submarine Chaser,100,"2-24S, 150-06E",United States,Army Aircraft,Sunk
+,17,,SUBMARINE CHASER NO 39,Submarine Chaser,300,"2-24S, 150-06E",United States,Army Aircraft,Sunk
+,17,,KATORI,Training Cruiser,"6,000","7-45N, 151-20E",United States,Navy Carrier-,Sunk
+,19,,SPECIAL SUBMARINE CHASER NO 34,Special Submarine Chaser,100,"2-45S, 150-47E",United States,Army Aircraft,Sunk
+,19,,SUBMARINE CHASER NO 22,Submarine Chaser,300,"3-04S, 150-42E",United States,Army Aircraft,Sunk
+,19,,SUBMARINE CHASER NO 40,Submarine Chaser,300,"3-04S, 150-42E",United States,Army Aircraft,Sank
+,21,,SPECIAL SUBMARINE CHASER NO 48,Special Submarine Chaser,100,"2-30S, 150-15E",United States,Army Aircraft,Sunk
+,22,,NATSUSHIMA,Special Minelayer,443,"2-40S, 149-40E",United States,Surface Craft,Sunk
+,22,,NAGAURA,Tug,800,"00-54S, 148-38E",United States,Surface Craft,Sank
+,22,,FRANCIS GARNIER,River Gunboat,639,"10-30N, 108-00E",United States,Army Mine,Sunk
+,26,,ASTROLABE,Surveying Ship,215,"16-04N, 108-13E",United States,Army Aircraft,Sank
+March,3,1944,KARATSU,River Gunboat,560,"8-52N, 123-23E",United States,Submarine,Sunk
+,4,,SHIRAKAMI,Special Minelayer,720,"39-30N, 142-00E",Japan,Marine Casualty,Sunk
+,13,,TATSUTA,Light Cruiser,"3,300","32-58N, 138-52E",United States,Submarine,Sunk
+,16,,SHIRAKUMO,Destroyer,"1,950","42-25N, 144-55E",United States,Submarine,Sunk
+,19,,SPECIAL SUBMARINE CHASER NO 47,Special Submarine Chaser,100,"2-55S, 143-40E",United States,Army Aircraft,Sunk
+,19,,SPECIAL SUBMARINE CHASER NO 49,Special Submarine Chaser,100,"2-55S, 143-40E",United States,Army Aircraft,Sank
+,23,,I 42,Submarine,"2,212","6-40N, 134-03E",United States,Submarine,Sunk
+,24,,I 32,Submarine,"2,212","8-30N, 170-10E",United States,Surface Craft,Sank
+,25,,SUBMARINE CHASER NO 54,Submarine Chaser,300,"28-34N, 142-14E",United States,Submarine,Sunk
+,30,,WAKATAKE,Old Destroyer,820,"7-50N, 134-20E",United States,Navy Carrier-,Sank
+,30,,PATROL BOAT NO 31,Old Destroyer,750,"7-30N, 134-30E",United States,Navy Carrier-,Sunk
+,30,,SPECIAL SUBMARINE CHASER NO 22,Special Submarine Chaser,100,"7-30N, 134-30E",United States,Navy Carrier-,Sank
+March        ,30,1944,SPECIAL SUBMARINE CHASER NO 26,Special Submarine Chaser,100,"7-30N, 134-30E",United States,Navy Carrier-Based Aircraft,Sunk
+,30,,SPECIAL SUBMARINE CHASER NO 53,Special Submarine Chaser,170,"7-30N, 134-30E",United States,Navy Carrier-Based Aircraft,Sunk
+,30,,SUBMARINE CHASER NO 6,Submarine Chaser,270,"7-30N, 134-30E",United States,Navy Carrier-Based Aircraft,Sunk
+,30,,AKASHI,Repair Ship,"9,000","7-30N, 134-30E",United States,Navy Carrier-Based Aircraft,Sunk
+April,4,1944,I 169,Submarine,"1,785","7-25N, 151-50E",Japan,Marine Casualty,Sunk
+,5,,SPECIAL SUBMARINE CHASER NO 46,Special Submarine Chaser,130,"7-26N, 151-52E",United States,Navy Carrier-Based Aircraft,Sunk
+,6,,I 2,Submarine,"1,995","2-17S, 149-14E",United States,Surface Craft,Sunk
+,11,,AKIGUMO,Destroyer,"1,900","6-43N, 122-23E",United States,Submarine,Sunk
+,13,,IKAZUCHI,Destroyer,"1,950","10-13N, 143-51E",United States,Submarine,Sunk
+,15,,MINESWEEPER NO 7,Minesweeper,630,"11-34N, 93-08E",Great Britain,Submarine,Sunk
+,20,,RO 45,Submarine,965,"15-19N, 145-31E",United States,Submarine,Sunk
+,22,,HOKUAN,Salvage Vessel,534,"7-10N, 99-20E",Great Britain,Submarine,Sunk
+,23,,AMAGIRI,Destroyer,"1,950","2-10S, 116-45E",United States,Army Mine,Sunk
+,26,,I 180,Submarine,"1,630","55-10N, 155-40W",United States,Surface Craft,Sank
+,27,,KAMONE,Special Minelayer,450,"27-37N, 128-11E",United States,Submarine,Sunk
+,27,,YUBARI,Light Cruiser,"3,500","5-20N, 132-16E",United States,Submarine,Sunk
+,28,,I 183,Submarine,"1,630","32-07N, 133-03E",United States,Submarine,Sunk
+,29,,I 174,Submarine,"1,785","6-13N, 151-19E",United States,Navy Carrier-Based Aircraft Surface Craft,Sunk
+,29,,TAHURE,River Gunboat,644,"13-02N, 109-28E",United States,Submarine,Sunk
+,30,,SPECIAL SUBMARINE CHASER NO 38,Special Submarine Chaser,100,"7-22N, 151-45E",United States,Navy Carrier- Based Aircraft,Sank
+May,10,1944,KARUKAYA,Old Destroyer,820,"15-38N, 119-25E",United States,Submarine,Sunk
+,13,,RO 501,Submarine,"1,200","18-08N, 33-13W",United State,Surface Craft,Sank
+,14,,INAZUMA,Destroyer,"1,950","5-08N, 119-38E",United States,Submarine,Sunk
+,16,,I 176,Submarine,"1,630","4-01S,156-29E",United States,Surface Craft,Sunk
+,19,,I 16,Submarine,"2,180","5-10S, 158-17E",United States,Surface Craft,Sank
+,21,,RO 106,Submarine,525,"1-40N, 150-31E",United States,Surface Craft,Sunk
+,22,,RO 104,Submarine,525,"1-26N, 149-20E",United States,Surface Craft,Sunk
+,22,,HASHIDATE,Gunboat,"1,200","21-20N, 117-10E",United States,Submarine,Sunk
+,22,,ASANAGI,Destroyer,"1,270","28-20N, 138-57E",United States,Submarine,Sunk
+,23,,RO 116,Submarine,525,"00-53N, 149-14E",United States,Surface Craft,Sunk
+,24,,IKI,Frigate,860,"1-17N, 107-50E",United States,Submarine,Sunk
+,26,,RO 108,Submarine,525,"00-32S, 148-35E",United States,Surface Craft,Sunk
+May,29,1944,RO 105,Submarine,525,"00-47N, 149-56E",United States,Surface Craft,Sunk
+,30,,ISHIGAKI,Frigate,860,"48-30N, 151-30E",United States,Submarine,Sunk
+June          ,2,1944,AWAJI,Frigate,900,"22-34N, 121-51E",United States,Submarine,Sunk
+,4,,TRANSPORT NO 128,Tank Landing Ship,"1,000","4-00N, 129-45E",United States,Army Aircraft,Sunk
+,6,,COAST DEFENSE VESSEL NO 15,Frigate,800,"8-58N, 109-30E",United States,Submarine,Sunk
+,6,,MINATSUKI,Destroyer,"1,500","4-05N, 119-30E",United States,Submarine,Sunk*
+,7,,HAYANAMI,Destroyer,"2,100","4-43N, 120-03E",United States,Submarine,Sunk
+,8,,HARUSAME,Destroyer,"1,580","00-05N, 132-45E",United States,Army Aircraft,Sunk
+,8,,KAZEGUMO,Destroyer,"1,900","6-03N, 125-57E",United States,Submarine,Sunk
+,9,,MATSUKAZE,Destroyer,"1,270","26-59N, 143-13E",United States,Submarine,Sunk
+,9,,TANIKAZE,Destroyer,"1,900","5-42N, 120-41E",United States,Submarine,Sunk
+,10,,I 5,Submarine,"1,995","00-26N, 149-16E",United States,Surface Craft,Sank
+,10,,RO 111,Submarine,525,"10-05N, 168-22E",United States,Surface Craft,Sank
+,12,,I 33,Submarine,"2,212","33-30N, 132-30E",Japan,Marine Casualty,Sank
+,12,,OTORI,Torpedo Boat,595,"17-32N, 144-00E",United States,Navy Carrier-,Sunk
+,12,,SPECIAL SUBMARINE CHASER NO 35,Special Submarine Chaser,100,"17-30N, 143-18E",United States,Navy Carrier-,Sank
+,12,,SPECIAL SUBMARINE CHASER NO 54,Special Submarine Chaser,100,"17-30N, 143-18E",United States,Navy Carrier-,Sunk
+,12,,SPECIAL SUBMARINE CHASER NO 56,Special Submarine Chaser,100,"17-30N, 143-18E",United States,Navy Carrier-,Sank
+,13,,RO 36,Submarine,965,"15-21N, 147-00E",United States,Surface Craft,Sunk
+,13,,TRANSPORT NO 1,High Speed Transport,"1,500","11-30N, 140-00E",United States,Navy Carrier-,Sunk
+,15,,SHIRATSUYU,Destroyer,"1,580","9-09N, 126-51E",Japan,Marine Casualty,Sunk
+,15,,RO 44,Submarine,965,"11-13N, 164-15E",United States,Surface Craft,Sunk
+,15,,SPECIAL MINELAYER NO 101,Special Minelayer,730,"15-15N, 145-45E",United States,Surface Craft,Sunk
+,16,,RO 114,Submarine,525,"15-02N, 144-10E",United States,Surface Craft,Sunk
+,17,,RO 117,Submarine,525,"11-05N, 150-31E",United States,Navy Land-,Sunk
+,19,,I 184,Submarine,"1,630","13-01N, 149-53E",United States,Navy Carrier-,Sunk
+,19,,SHOKAKU,Aircraft Carrier,"30,000","11-50N, 137-57E",United States,Submarine,Sunk
+,19,,TAIHO,Aircraft Carrier,"31,000","12-22N, 137-04E",United States,Submarine,Sunk
+,20,,HITAKA,Aircraft Carrier,"28,000","15-30N, 133-30E",United States,Navy Carrier-,Sank
+,22,,I 185,Submarine,"1,630","15-50N, 147-08E",United States,Surface Craft,Sunk
+June     ,24,1944,I 52,Submarine,"2,095","15-16N, 39-55W",United States,Navy Carrier-,Sunk
+,28,,COAST DEFENSE VESSEL NO 24,Frigate,800,"24-44N, 140-20E",United States,Submarine,Sunk
+,29,,TSUGARU,Minelayer,"4,400","2-19N, 127-57E",United States,Submarine,Sunk
+July,4,1944,I 10,Submarine,"2,443","15-26N, 147-48E",United States,Surface Craft,Sank
+,4,,SUBMARINE CHASER NO 16,Submarine Chaser,300,"27-00N, 140-50E",United States,Navy Carrier-Based Aircraft,Sank
+,4,,SARUSHIMA,Special Minelayer,443,"27-10N, 142-10E",United States,Navy Carrier-Based Aircraft,Sank
+,4,,TRANSPORT NO 103,Tank Landing Ship,"1,000","27-05N, 142-09E",United States,Navy Carrier-Based Aircraft,Sank
+,4,,TRANSPORT NO 130,Tank Landing Ship,"1,000","24-47N, 141-20E",United States,Navy Carrier-Based Aircraft,Sank
+,6,,HOKAZE,Destroyer,"1,300","3-24N, 125-28E",United States,Submarine,Sunk
+,7,,USUGUMO,Destroyer,"1,950","47-43N, 147-55E",United States,Submarine,Sunk
+,7,,TAMANAMI,Destroyer,"2,100","13-55N, 118-30E",United States,Submarine,Sunk
+,10,,SPECIAL SUBMARINE CHASER NO 23,Special Submarine Chaser,100,"4-13S, 152-11E",New Zealand,Aircraft,Sank
+,13,,I 6,Submarine,"1,995","15-18N, 144-26E",United States,Surface Craft,Sank
+,17,,I 166,Submarine,"1,635","5-10N, 100-00E",Great Britain,Submarine,Sunk
+,17,,MINESWEEPER NO 25,Minesweeper,492,"33-51N, 138-35E",United States,Submarine,Sunk
+,18,,RO 48,Submarine,965,"13-01N, 151-58E",United States,Surface Craft,Sank
+,18,,SUBMARINE CHASER NO 50,Submarine Chaser,300,"29-22N, 139-14E",United States,Submarine,Sunk
+,19,,SPECIAL MINESWEEPER NO 4,Special Minesweeper,300,"8-38S, 125-26E",Australia,Aircraft,Sank
+,19,,OI,Light Cruiser,"5,700","12-45N, 114-20E",United States,Submarine,Sunk
+,25,,UNKNOWN SCS,Special Submarine Chaser,100,"7-05N, 134-20E",United States,Navy Carrier-Based Aircraft,Sank
+,25,,SAMIDARE,Destroyer,"1,580","8-10N, 134-38E",United States,Navy Carrier-Based Aircraft Submarine,Sank
+,26,,SOKUTEN,Special Minelayer,720,"7-20N, 134-27E",United States,Navy Carrier-Based Aircraft,Sank
+,26,,TRANSPORT NO 150,Tank Landing Ship,"1,000","7-30N, 134-30E",United States,Navy Carrier-Based Aircraft,Sank
+,26,,I 29,Submarine,"2,212","20-10N, 121-50E",United States,Submarine,Sunk
+,28,,I 55,Submarine,"2,095","14-26N, 152-16E",United States,Surface Craft,Sank
+August,4,1944,MATSU,Destroyer,900,"27-40N, 141-48E",United States,Surface Craft,Sunk
+,4,,TRANSPORT NO 4,High Speed Transport,"1,500","27-07N, 142-12E",United States,Navy Carrier-,Sunk
+,4,,TRANSPORT NO 133,Tank Landing Ship,"1,000","24-47N, 141-20E",United States,Navy Carrier-,Sunk
+,4,,TRANSPORT NO 152,Tank Landing Ship,"1,000","24-47N, 141-20E",United States,Navy Carrier-,Sunk
+,5,,TRANSPORT NO 2,High Speed Transport,"1,500","27-05N, 142-09E",United States,Navy Carrier-,Sunk
+,7,,SPECIAL SUBMARINE CHASER NO 94,Special Submarine Chaser,100,"20-00N, 122-00S",Japan,Marine Casualty,Sunk
+,7,,KUSAKAKI,Frigate,900,"14-51N, 119-59E",United States,Submarine,Sunk
+,7,,NAGARA,Light Cruiser,"5,700","32-09N, 129-53E",United States,Submarine,Sunk
+,13,,SUBMARINE CHASER NO 12,Submarine Chaser,300,"6-17N, 126-09E",United States,Submarine,Sunk
+,14,,TRANSPORT NO 129,Tank Landing Ship,"1,000","4-17S, 126-46E",United States,Submarine,Sunk
+,18,,OTAKA,Escort Aircraft Carrier,"20,000","13-16N, 120-20E",United States,Submarine,Sunk
+,18,,NATORI,Light Cruiser,"5,700","12-29N, 128-49E",United States,Submarine,Sunk
+,22,,SADO,Frigate,860,"14-15N, 120-05E",United States,Submarine,Sunk
+,22,,MATSUWA,Frigate,860,"14-15N, 120-05E",United States,Submarine,Sunk
+,22,,HIBURI,Frigate,900,"14-15N, 120-05E",United States,Submarine,Sunk
+,23,,ASAKAZE,Destroyer,"1,270","16-06N, 119-44E",United States,Submarine,Probably sunk
+,23,,MINESWEEPER NO 22,Minesweeper,492,"8-09N, 134-38E",United States,Submarine,Sunk
+,25,,YUNAGI,Destroyer,"1,270","18-46N, 120-46E",United States,Submarine,Sunk
+,28,,SPECIAL SUBMARINE CHASER NO 77,Special Submarine Chaser,170,"50-30N, 156-20E",United States,Army Aircraft,Sunk
+,29,,MINESWEEPER NO 28,Minesweeper,492,"2-03N, 122-28E",United States,Submarine,Sunk
+,31,,SHIRATAKA,Minelayer,"1,345","21-05N, 121-26E",United States,Submarine,Sunk
+September,9,1944,SPECIAL SUBMARINE CHASER NO 8,Special Submarine Chaser,100,"3-54N, 98-44E",Great Britain,Mine,Sunk
+,11,,SPECIAL SUBMARINE CHASER NO 165,Special Submarine Chaser,170,"32-20N, 131-50E",United States,Submarine,Sunk
+,12,,SUBMARINE CHASER NO 55,Submarine Chaser,300,"10-20N, 124-00E",United States,Navy Carrier-,Sunk
+,12,,MIHO,Salvage Vessel,632,"10-35N, 124-00E",United States,Navy Carrier-,Sunk
+,12,,SHIKINAMI,Destroyer,"1,950","18-16N, 114-40E",United States,Submarine,Sunk
+,12,,HIRADO,Frigate,860,"17-54N, 114-49E",United States,Submarine,Sunk
+,14,,TRANSPORT NO 5,High Speed Transport,"1,500","6-10N, 126-00E",United States,Navy Carrier-,Sunk
+,15,,RO 42,Submarine,965,"34-30N, 145-23E",United States,Submarine,Sunk
+September,15,1944,TRANSPORT NO 3,High Speed Transport,"1,500","5-34N,125-23E",United States,Submarine,Sunk
+,16,,UNYO,Escort Aircraft Carrier,"20,000","19-18N, 116-26E",United States,Submarine,Sunk
+,19,,IOSHIMA,Frigate,900,"33-40N, 138-18E",United States,Submarine,Sunk
+,21,,SATSUKI,Destroyer,"1,500","14-35N, 120-55E",United States,Navy Carrier-,Sunk
+,21,,COAST DEFENSE VESSEL NO 5,Frigate,800,"15-25N, 119-50E",United States,Navy Carrier-,Sunk
+,21,,SUNOSAKI,Repair Ship,"1,800","14-35N, 120-55E",United States,Navy Carrier-,Sunk
+,21,,KATSURIKI,Surveying Ship,"1,540","13-35N, 119-06E",United States,Submarine,Sunk
+,24,,HAYABUSA,Torpedo Boat,595,"13-00N, 122-00E",United States,Navy Carrier-,Probably sunk
+,24,,SPECIAL SUBMARINE CHASER NO 39,Special Submarine Chaser,100,"12-21N, 123-00E",United States,Navy Carrier-,Sunk
+,24,,SUBMARINE CHASER NO 32,Submarine Chaser,300,"12-15N, 121-00E",United States,Navy Carrier-,Sunk
+,24,,SPECIAL MINESWEEPER NO 7,Special Minesweeper,300,"11-45N, 123-30E",United States,Navy Carrier-,Sunk
+,24,,YAEYAMA,Minelayer,"1,135","12-15N, 121-00E",United States,Navy Carrier-,Sunk
+,24,,AKITSUSHIMA,Seaplane Tender,"9,000","11-59N, 120-02E",United States,Navy Carrier-,Sunk
+,25,,I 175,Submarine,"1,785","9-19N, 136-44E",United States,Surface Craft,Sunk
+,26,,AOTAKA,Minelayer,"1,600","7-00N, 116-00E",United States,Submarine,Sunk
+,27,,COAST DEFENSE VESSEL NO 10,Frigate,800,"29-26N, 128-50E",United States,Submarine,Sunk
+October,1,1944,AJIRO,Special Minelayer,720,"28-11N, 139-30E",United States,Submarine,Sunk
+,2,,I 364,Submarine,"1,470","7-48N, 133-28E",United States,Surface Craft,Sunk
+,4,,TRANSPORT NO 134,Tank Landing Ship,"1,000","24-47N, 141-20E",Japan,Marine Casualty,Sunk
+,6,,SAGA,Gunboat,990,"22-17N, 114-10E",United States,Army Mine,Sunk
+,6,,SPECIAL SUBMARINE CHASER NO 2,Special Submarine Chaser,100,"4-20N, 98-24E",Great Britain,Submarine,Sunk
+,6,,COAST DEFENSE VESSEL NO 21,Frigate,800,"19-27N, 118-08E",United States,Submarine,Sunk
+,10,,TRANSPORT NO 158,Tank Landing Ship,"1,000","26-38N, 127-52E",United States,Navy Carrier-,Sunk
+,10,,JINGEI,Submarine Tender,"5,160","26-39N, 127-52E",United States,Navy Carrier-,Sunk
+,11,,TRANSPORT NO 105,Tank Landing Ship,"1,000","33-18N, 137-42E",United States,Submarine,Sunk
+,16,,HATO,Torpedo Boat,595,"21-54N, 116-30E",United States,Army Aircraft,Sunk
+,17,,ITSUKUSHIMA,Minelayer,"1,970","5-26S, 113-48E",Netherlands,Submarine,Sunk
+October     ,18,1944,SPECIAL SUBMARINE CHASER NO 95,Special Submarine Chaser,100,"18-54N, 121-51E",United States,Navy Carrier-,Sunk
+,18,,TRANSPORT NO 135,Tank Landing Ship,"1,000","17-46N, 120-25E",United States,Navy Carrier-,Sunk
+,18,,TRANSPORT NO 136,Tank Landing Ship,"1,000","17-46N, 120-25E",United States,Navy Carrier-,Probably sunk
+,22,,SPECIAL SUBMARINE CHASER NO 15,Special Submarine Chaser,100,"11-30N, 124-00E",United States,Navy Carrier-,Sunk
+,23,,MAYA,Heavy Cruiser,"12,200","9-29N, 117-20E",United States,Submarine,Sunk
+,23,,ATAGO,Heavy Cruiser,"12,200","9-24N, 117-11E",United States,Submarine,Sunk*
+,24,,I 362,Submarine,"1,470","9-45N, 126-45E",United States,Surface Craft,Sunk
+,24,,MUSASHI,Battleship,"63,000","12-50N, 122-35E",United States,Navy Carrier-,Sunk
+,24,,WAKABA,Destroyer,"1,600","11-50N, 121-25E",United States,Navy Carrier-,Sunk
+,25,,FUSO,Battleship,"33,000","10-25N, 125-20E",United States,Surface Craft,Sunk
+,25,,YAMASHIRO,Battleship,"33,000","10-25N, 125-20E",United States,Surface Craft,Sunk
+,25,,ASAGUMO,Destroyer,"1,850","10-25N, 125-20E",United States,Surface Craft,Sunk
+,25,,YAMAGUMO,Destroyer,"1,850","10-25N, 125-20E",United States,Surface Craft,Sunk
+,25,,MICHISHIO,Destroyer,"1,850","10-25N, 125-20E",United States,Surface Craft,Sunk
+,25,,HATSUTSUKI,Destroyer,"1,900","20-24N, 126-20E",United States,Surface Craft*,Sunk
+,25,,ZUIKAKU,Aircraft Carrier,"30,000","19-20N, 125-51E",United States,Navy Carrier-,Sunk
+,25,,SUZUYA,Heavy Cruiser,"13,000","11-30N, 126-30E",United States,Navy Carrier-,Sunk
+,25,,CHIYODA,Light Aircraft Carrier,"11,000","18-37N, 126-45E",United States,Navy Carrier-,Sunk
+,25,,ZUIHO,Light Aircraft Carrier,"12,000","19-20N, 125-51E",United States,Navy Carrier-,Sunk
+,25,,SPECIAL SUBMARINE CHASER NO 62,Special Submarine Chaser,170,"7-30N, 134-30E",United States,Marine Carrier-,Sunk
+,25,,CHIKUMA,Heavy Cruiser,"12,000","11-30N, 126-30E",United States,Navy Carrier-,Sunk
+,25,,CHOKAI,Heavy Cruiser,"12,200","11-30N, 126-30E",United States,Navy Carrier-,Sunk
+,25,,MOGAMI,Heavy Cruiser,"13,000","9-40N, 124-50E",United States,Navy Carrier-,Sunk
+,25,,CHITOSE,Light Aircraft Carrier,"11,000","19-20N, 126-20E",United States,Navy Carrier-,Sunk
+October,25,1944,AKITSUKI,Destroyer,"1,900","20-29N, 126-36E",United States,Submarine*,Sunk
+,25,,TAMA,Light Cruiser,"5,700","21-23N, 127-19E",United States,Navy Carrier-,Sunk
+,26,,NOWAKI,Destroyer,"1,900","13-00N, 124-54E",United States,Surface Craft,Sunk
+,26,,KINU,Light Cruiser,"5,700","11-46N, 123-11E",United States,Army Aircraft Navy Carrier-,Sunk
+,26,,NOSHIRO,Light Cruiser,"7,000","11-35N, 121-45E",United States,Navy Carrier-,Sunk
+,26,,HAYASHIMO,Destroyer,"2,100","12-05N, 121-50E",United States,Navy Carrier-,Sunk
+,26,,URANAMI,Destroyer,"1,950","11-50N, 123-00E",United States,Navy Carrier-,Sunk
+,26,,ABUKUMA,Light Cruiser,"5,700","9-20N, 122-30E",United States,Army Aircraft Surface CraftNavy Carrier-,Sunk
+,27,,FUJINAMI,Destroyer,"2,100","12-00N, 122-30E",United States,Navy Carrier-,Sunk
+,27,,SHIRANUHI,Destroyer,"1,650","12-00N, 122-30E",United States,Navy Carrier-,Sunk
+,27,,TRANSPORT NO 138,Tank Landing Ship,"1,000","25-22N, 141-31E",United States,Submarine,Sunk
+,28,,I 45,Submarine,"2,212","10-10N, 127-28E",United States,Surface Craft,Sunk
+,28,,I 54,Submarine,"2,140","10-56N, 127-13E",United States,Surface Craft,Sunk
+,31,,KAIYO NO 6,District Craft,100,"32-50N, 134-21E",United States,Submarine*,Sunk
+November  ,3,1944,AKIKAZE,Destroyer,"1,300","16-48N, 117-17E",United States,Submarine,Sunk
+,4,,MINESWEEPER NO 5,Minesweeper,615,"3-14N, 99-50E",Great Britain,Submarine,Sunk
+,5,,TRANSPORT NO 112,High Speed Transport,"1,000","12-40N, 121-22E",Japan,Marine Casualty,Sunk
+,5,,NACHI,Heavy Cruiser,"12,700","14-23N, 120-25E",United States,Navy Carrier-,Sunk
+,5,,PATROL BOAT NO 107,Yacht,"1,000","13-50N, 120-20E",United States,Navy Carrier-,Sunk
+,5,,NOTORO,Seaplane Tender,"14,050","1-18N, 103-52E",United States,Army Aircraft,Sunk
+,6,,TRANSPORT NO 139,Tank Landing Ship,"1,000","14-35N, 120-55E",United States,Navy Carrier-,Probably sunk
+,6,,SPECIAL SUBMARINE CHASER NO 118,Special Submarine Chaser,100,"9-38S, 120-17E",Australia,Aircraft,Sunk
+,8,,SAGI,Torpedo Boat,595,"16-09N, 118-56E",United States,Submarine,Sunk
+,10,,COAST DEFENSE VESSEL NO 11,Frigate,800,"10-50N, 124-35E",United States,Army Aircraft,Sunk
+November  ,10,1944,PATROL BOAT NO 46,Old Destroyer,820,"34-30N, 138-34E",United States,Submarine,Sunk
+,11,,NAGANAMI,Destroyer,"1,900","10-50N, 124-35E",United States,Navy Carrier- Based Aircraft,Sunk
+,11,,HAMANAMI,Destroyer,"2,100","10-50N, 124-35E",United States,Navy Carrier- Based Aircraft,Sunk
+,11,,SHIMAKAZE,Destroyer,"1,300","10-50N, 124-35E",United States,Navy Carrier- Based Aircraft,Sunk
+,11,,WAKATSUKI,Destroyer,"1,900","10-50N, 124-35E",United States,Navy Carrier- Based Aircraft,Sunk
+,11,,MINESWEEPER NO 30,Minesweeper,630,"10-50N, 124-31E",United States,Navy Carrier- Based Aircraft,Sunk
+,12,,I 37,Submarine,"2,212","8-04N, 138-03E",United States,Surface Craft,Sunk
+,13,,I 38,Submarine,"2,212","31-55N, 139-45W",United States,Surface Craft,Sunk
+,13,,KISO,Light Cruiser,"5,700","14-35N, 120-50E",United States,Navy Carrier- Based Aircraft,Sunk
+,13,,AKEBONO,Destroyer,"1,950","14-35N, 120-50E",United States,Navy Carrier- Based Aircraft,Sunk
+,13,,AKISHIMO,Destroyer,"2,100","14-35N, 120-50E",United States,Navy Carrier- Based Aircraft,Sunk
+,13,,HATSUHARU,Destroyer,"1,600","14-35N, 120-50E",United States,Navy Carrier- Based Aircraft,Sunk
+,13,,OKINAMI,Destroyer,"2,100","14-35N, 120-50E",United States,Navy Carrier- Based Aircraft,Sunk
+,13,,SPECIAL SUBMARINE CHASER NO 116,Special Submarine Chaser,100,"14-30N, 120-45E",United States,Navy Carrier- Based Aircraft,Sunk
+,14,,KURASAKI,Miscellaneous Auxiliary,989,"17-27N, 117-43E",United States,Submarine,Sunk
+,14,,COAST DEFENSE VESSEL NO 7,Frigate,800,"17-46N, 117-57E",United States,Submarine,Sunk
+,17,,I 26,Submarine,"2,212","12-44N, 130-42E",United States,Navy Carrier- Based Aircraft,Sunk
+,17,,JINYO,Escort Aircraft Carrier,"21,000","33-02N, 123-33E",United States,Submarine,Sunk
+,17,,HIYODORI,Torpedo Boat,595,"16-56N, 110-30E",United States,Submarine,Sunk
+,18,,SPECIAL SUBMARINE CHASER NO 156,Special Submarine Chaser,100,"33-07N, 123-09E",United States,Submarine,Probably sunk
+,19,,I 177,Submarine,"1,630","8-07N, 134-16E",United States,Surface Craft,Sunk
+,20,,SPECIAL MINELAYER NO 4,Special Minelayer,600,"6-55N, 94-15E",Great Britain,Submarine,Sunk
+,20,,MINESWEEPER NO 38,Minesweeper,630,"21-21N, 119-45E",United States,Submarine,Sunk
+,21,,KONGO,Battleship,"31,000","26-09N, 121-23E",United States,Submarine,Sunk
+,21,,URAKAZE,Destroyer,"1,900","26-09N, 121-23E",United States,Submarine,Sunk
+,22,,TRANSPORT NO 151,Tank Landing Ship,"1,000","11-22N, 119-07E",United States,Submarine,Sunk
+,24,,SUBMARINE CHASER NO 46,Submarine Chaser,300,"11-35N, 124-10E",United States,Army Aircraft,Sunk
+,24,,TRANSPORT NO 111,Tank Landing Ship,"1,000","11-35N, 124-10E",United States,Army Aircraft,Sunk
+,24,,TRANSPORT NO 141,Tank Landing Ship,"1,000","11-35N, 124-10E",United States,Army Aircraft,Sunk
+,24,,TRANSPORT NO 160,Tank Landing Ship,"1,000","11-35N, 124-10E",United States,Army Aircraft,Sunk
+November  ,25,1944,KUMANO,Heavy Cruiser,"13,000","15-47N, 119-48E",United States,Navy Carrier-,Sunk
+,25,,YASOJIMA,Frigate,900,"15-40N, 119-45E",United States,Navy Carrier-,Sunk
+,25,,TRANSPORT NO 6,High Speed Transport,"1,500","13-32N, 121-52E",United States,Navy Carrier-,Sunk
+,25,,TRANSPORT NO 10,High Speed Transport,"1,500","13-32N, 121-52E",United States,Navy Carrier-,Sunk
+,25,,UNKNOWN LST,Tank Landing Ship,"1,000","15-40N, 119-45E",United States,Navy Carrier-,Sunk
+,25,,UNKNOWN LST,Tank Landing Ship,"1,000","15-40N, 119-45E",United States,Navy Carrier-,Sunk
+,25,,UNKNOWN LST,Tank Landing Ship,"1,000","15-40N, 119-45E",United States,Navy Carrier-,Sunk
+,25,,MINESWEEPER NO 18,Minesweeper,492,"16-52N, 108-38E",United States,Army Aircraft,Sunk
+,25,,RO 100,Submarine,525,"7-00S, 156-00E",United States,Navy Mine,Sunk
+,25,,COAST DEFENSE VESSEL NO 38,Frigate,800,"14-22N, 119-57E",United States,Submarine,Sunk
+,25,,PATROL BOAT NO 38,Old Destroyer,820,"20-12N, 121-51E",United States,Submarine,Sunk
+,25,,SHIMOTSUKI,Destroyer,"2,300","2-21N, 107-20E",United States,Submarine,Sunk
+,26,,TRANSPORT NO 161,Tank Landing Ship,"1,000","16-00N, 97-00E",United States,Army Aircraft,Sunk
+,27,,I 46,Submarine,"2,180","10-48N, 124-35E",United States,Surface Craft,Sunk
+,28,,SUBMARINE CHASER NO 53,Submarine Chaser,300,"10-59N, 124-33E",United States,Surface Craft,Sunk
+,28,,PATROL BOAT NO 105,Yacht,200,"10-59N, 124-33E",United States,Surface Craft,Sunk
+,28,,I 365,Submarine,"1,470","34-44N, 141-01E",United States,Submarine,Sunk
+,29,,SUBMARINE CHASER NO 45,Submarine Chaser,300,"11-00N, 124-15E",United States,Army Aircraft,Sunk
+,29,,SHINANO,Aircraft Carrier,"59,000","32-00N, 137-00E",United States,Submarine,Sunk
+December,3,1944,KUWA,Destroyer,"1,000","10-50N, 124-35E",United States,Surface Craft,Sunk
+,3,,COAST DEFENSE VESSEL NO 64,Frigate,800,"18-36N, 111-54E",United States,Submarine,Sunk
+,4,,KISHINAMI,Destroyer,"2,100","13-12N, 116-37E",United States,Submarine,Sunk
+,4,,IWANAMI,Destroyer,"2,100","13-12N, 116-37E",United States,Submarine,Sunk
+,5,,HOZU,Salvage Vessel,613,"4-24S, 152-18E",Unknown,Aircraft*,Sunk
+,7,,TRANSPORT NO 11,High Speed Transport,"1,500","11-23N, 124-18E",United States,Army Aircraft,Sunk
+,12,,UZUKI,Destroyer,"1,500","11-03N, 124-23E",United States,Surface Craft,Sunk
+,12,,YUZUKI,Destroyer,"1,500","11-20N, 124-10E",United States,Army Aircraft Marine Land-,Sunk
+December  ,12,1944,TRANSPORT NO 159,Tank Landing Ship,"1,000","11-20N, 124-10E",United States,Army Aircraft Marine Land-,Sunk
+,13,,TRANSPORT NO 12,High Speed Transport,"1,900","20-34N, 118-45E",United States,Submarine,Sunk
+,13,,TRANSPORT NO 104,Tank Landing Ship,"1,900","20-34N, 118-45E",United States,Submarine,Sunk
+,14,,TRANSPORT NO 109,Tank Landing Ship,"1,000","17-35N, 120-20E",United States,Navy Carrier-,Sunk
+,14,,COAST DEFENSE VESSEL NO 28,Frigate,800,"15-46N, 119-45E",United States,Submarine,Sunk
+,15,,COAST DEFENSE VESSEL NO 54,Frigate,740,"19-25N, 121-25E",United States,Navy Carrier-,Sunk
+,15,,TRANSPORT NO 106,Tank Landing Ship,"1,000","15-30N, 119-50E",United States,Navy Carrier-,Sunk
+,15,,MOMO,Destroyer,760,"16-00N, 117-39E",United States,Submarine,Sunk
+,19,,UNRYU,Aircraft Carrier,"18,500","28-59N, 124-03E",United States,Submarine,Sunk
+,22,,CHIDORI,Torpedo Boat,527,"34-33N, 138-02E",United States,Submarine,Sunk
+,24,,TRANSPORT NO 8,High Speed Transport,"1,900","25-10N, 141-00E",United States,Surface Craft,Sunk
+,24,,TRANSPORT NO 157,Tank Landing Ship,"1,000","24-47N, 141-20E",United States,Surface Craft,Sunk
+,26,,KIYOSHIMO,Destroyer,"2,200","12-20N, 121-00E",United States,Army Aircraft Surface Craft,Sunk
+,27,,TRANSPORT NO 7,High Speed Transport,"1,500","24-47N, 141-20E",United States,Surface Craft,Sunk
+,27,,TRANSPORT NO 132,Tank Landing Ship,"1,000","24-47N, 141-20E",United States,Surface Craft,Sunk
+,30,,COAST DEFENSE VESSEL NO 20,Frigate,"1,000","16-30N, 120-15E",United States,Army Aircraft,Sunk
+,30,,KURETAKE,Old Destroyer,820,"21-00N, 121-24E",United States,Submarine,Sunk
+January,2,1945,COAST DEFENSE VESSEL NO 138,Frigate,800,"16-37N, 120-19E",United States,Army Aircraft,Sunk
+,3,,SPECIAL SUBMARINE CHASER NO 10,Special Submarine Chaser,100,"7-04N, 125-37E",United States,Army Aircraft,Sunk
+,5,,TRANSPORT NO 107,Tank Landing Ship,"1,000","26-27N, 141-11E",United States,Surface Craft,Sunk
+,5,,TRANSPORT NO 154,Tank Landing Ship,"1,000","24-47N, 141-20E",United States,Surface Craft,Sunk
+,5,,MOMI,Destroyer,800,"14-00N, 120-20E",United States,Navy Carrier-,Sunk
+,9,,COAST DEFENSE VESSEL NO 3,Frigate,800,"25-10N, 121-45E",United States,Navy Carrier-,Sunk
+,9,,SPECIAL SUBMARINE CHASER NO 96,Special Submarine Chaser,100,"22-40N, 120-00E",United States,Navy Carrier-,Sunk
+,9,,SUBMARINE CHASER NO 61,Submarine Chaser,300,"22-40N, 120-04E",United States,Navy Carrier-,Sunk
+,10,,COAST DEFENSE VESSEL NO 42,Frigate,800,"27-01N, 126-34E",United States,Submarine,Sunk
+January    ,12,1945,CHIBURI,Frigate,900,"10-20N, 107-50E",United States,Navy Carrier-,Sunk
+,12,,COAST DEFENSE VESSEL NO 17,Frigate,800,"10-20N, 107-50E",United States,Navy Carrier-,Sunk
+,12,,COAST DEFENSE VESSEL NO 19,Frigate,800,"10-20N, 107-50E",United States,Navy Carrier-,Sunk
+,12,,COAST DEFENSE VESSEL NO 23,Frigate,800,"14-15N, 109-10E",United States,Navy Carrier-,Sunk
+,12,,COAST DEFENSE VESSEL NO 35,Frigate,800,"11-10N, 108-55E",United States,Navy Carrier-,Sunk
+,12,,COAST DEFENSE VESSEL NO 43,Frigate,800,"11-10N, 108-55E",United States,Navy Carrier-,Sunk
+,12,,COAST DEFENSE VESSEL NO 51,Frigate,800,"14-15N, 109-10E",United States,Navy Carrier-,Sunk
+,12,,SUBMARINE CHASER NO 31,Submarine Chaser,440,"11-10N, 108-55E",United States,Navy Carrier-,Sunk
+,12,,SUBMARINE CHASER NO 43,Submarine Chaser,440,"11-53N, 109-08E",United States,Navy Carrier-,Sunk
+,12,,MINESWEEPER NO 101,Minesweeper,630,"11-10N, 108-55E",United States,Navy Carrier-,Sunk
+,12,,TRANSPORT NO 140,Tank Landing Ship,"1,000","10-20N, 107-50E",United States,Navy Carrier-,Sunk
+,12,,KASHII,Training Cruiser,"6,000","13-50N, 109-20E",United States,Navy Carrier-,Sunk
+,12,,PATROL BOAT NO 103,Yacht,840,"11-10N, 108-55E",United States,Navy Carrier-,Sunk
+,13,,RO 47,Submarine,965,"12-08N, 154-27E",United States,Surface Craft,Sunk
+,14,,YURISHIMA,Special Minelayer,720,"5-51N, 103-16E",United States,Submarine,Sunk
+,15,,HATAKAZE,Destroyer,"1,270","22-37N, 120-15E",United States,Navy Carrier-,Sunk
+,15,,TSUGA,Old Destroyer,820,"23-33N, 119-33E",United States,Navy Carrier-,Sunk
+,15,,TRANSPORT NO 14,High Speed Transport,"1,500","22-37N, 120-15E",United States,Navy Carrier-,Sunk
+,17,,TRANSPORT NO 15,High Speed Transport,"1,500","31-09N, 130-29E",United States,Submarine,Sunk
+,21,,TRANSPORT NO 101,Tank Landing Ship,"1,000","22-37N, 120-15E",United States,Navy Carrier-,Sunk
+,21,,TRANSPORT NO 102,Tank Landing Ship,"1,000","11-03N, 123-05E",United States,Navy Carrier-,Sunk
+,24,,SHIGURE,Destroyer,"1,580","6-00N, 103-48E",United States,Submarine,Sunk
+,27,,SPECIAL MINESWEEPER NO 102,Special Minesweeper,174,"8-37S, 115-39E",United States,Submarine,Sunk
+,28,,KUME,Frigate,900,"33-56N, 123-06E",United States,Submarine,Sunk
+,31,,RO 115,Submarine,525,"13-20N, 119-20S",United States,Surface Craft,Sunk
+January    ,31,1945,UME,Destroyer,"2,100","22-30N, 120-00E",United States,Army Aircraft,Sunk
+February,1,1945,TRANSPORT NO 115,Tank Landing Ship,"1,000","20-00N, 121-00E",United States,Army Aircraft,Sunk
+,2,,COAST DEFENSE VESSEL NO 144,Frigate,800,"4-32N, 104-30E",United States,Submarine,Sunk
+,7,,RO 55,Submarine,889,"15-27N, 119-25E",United States,Surface Craft,Sunk
+,7,,COAST DEFENSE VESSEL NO 53,Frigate,800,"12-04N, 109-22E",United States,Submarine,Sunk
+,9,,I 41,Submarine,"2,212","18-50N, 121-40E",United States,Submarine,Sunk
+,11,,RO 112,Submarine,525,"18-53N, 121-50E",United States,Submarine,Sunk
+,12,,RO 113,Submarine,525,"19-10N, 121-23E",United States,Submarine,Sunk
+,14,,COAST DEFENSE VESSEL NO 9,Frigate,800,"34-48N, 125-58E",United States,Submarine,Sunk
+,14,,SPECIAL SUBMARINE CHASER NO 4,Special Submarine Chaser,100,"8-20S, 115-45E",United States,Submarine,Sunk
+,14,,SPECIAL SUBMARINE CHASER NO 144,Special Submarine Chaser,100,"8-20S, 115-45E",United States,Submarine,Sunk
+,16,,NARIU,Special Minelayer,720,"32-10N, 135-54E",United States,Submarine,Sunk
+,17,,TRANSPORT NO 114,Tank Landing Ship,"1,000","23-04N, 120-30E",United States,Army Aircraft,Sunk
+,17,,COAST DEFENSE VESSEL NO 56,Frigate,750,"33-53N, 139-43E",United States,Submarine,Sunk
+,20,,NOKAZE,Destroyer,"1,300","12-48N, 109-38E",United States,Submarine,Sunk
+,23,,SUBMARINE CHASER NO 35,Submarine Chaser,440,"10-15N, 107-31E",United States,Army Aircraft,Sunk
+,23,,YAKU,Frigate,900,"12-39N, 109-29E",United States,Submarine,Sunk
+,24,,RO 49,Submarine,965,"32-40N, 132-33E",United States,Submarine,Sunk
+,25,,I 370,Submarine,"1,470","22-45N, 141-27E",United States,Surface Craft,Sunk
+,25,,RO 43,Submarine,965,"25-07N, 140-19E",United States,Navy Carrier-,Sunk
+,25,,SHONAN,Frigate,900,"17-08N, 110-01E",United States,Submarine,Sunk
+,26,,I 368,Submarine,"1,470","24-43N, 140-37E",United States,Navy Carrier-,Sunk
+March,1,1945,MANAZURU,Torpedo Boat,527,"26-17N, 127-35E",United States,Navy Carrier-,Sunk
+,1,,TSUBAME,Special Minelayer,450,"24-23N, 124-12E",United States,Navy Carrier-,Sunk
+,2,,TRANSPORT NO 143,Tank Landing Ship,"1,000","23-35N, 121-35E",United States,Army Aircraft,Probably sunk
+,3,,HARIO,Miscellaneous Auxiliary,"4,000","18-10N, 109-40E",Australia,Mine*,Sunk
+,4,,SUBMARINE CHASER NO 8,Submarine Chaser,290,"4-04N, 100-35E",Great Britain,Submarine,Sunk
+March      ,5,1945,SPECIAL SUBMARINE CHASER NO 110,Special Submarine Chaser,100,"8-36S, 119-19E",United States,Army Aircraft,Sunk
+,5,,MINESWEEPER NO 15,Minesweeper,492,"29-30N, 129-33E",United States,Submarine,Sunk
+,8,,COAST DEFENSE VESSEL NO 69,Frigate,800,"19-02N, 110-56E",United States,Army Aircraft,Sunk
+,13,,COAST DEFENSE VESSEL NO 66,Frigate,880,"23-30N, 117-10E",United States,Army Aircraft,Sunk
+,18,,TRANSPORT NO 18,High Speed Transport,"1,500","26-33N, 127-11E",United States,Submarine*,Sunk
+,19,,SUMA,River Gunboat,625,"32-00N, 120-00E",United States,Army Mine,Sunk
+,21,,SUBMARINE CHASER NO 33,Submarine Chaser,300,"11-50N, 109-18E",United States,Army Aircraft,Sunk
+,21,,TATEISHI,Repair Ship,"2,000","11-50N, 109-18E",United States,Army Aircraft,Sunk
+,22,,I 371,Submarine,"1,660","22-57N, 132-19E",United States,Surface Craft,Sunk
+,24,,COAST DEFENSE VESSEL NO 68,Frigate,800,"28-25N, 124-32E",United States,Navy Carrier-,Sunk
+,24,,TOMOZURU,Frigate,527,"28-25N, 124-32E",United States,Navy Carrier-,Probably sunk
+,26,,SUBMARINE CHASER NO 34,Submarine Chaser,300,"10-35N, 94-45E",Great Britain,Surface Craft,Sunk
+,26,,SUBMARINE CHASER NO 63,Submarine Chaser,300,"10-35N, 94-45E",Great Britain,Surface Craft,Sunk
+,27,,SPECIAL MINELAYER NO 1,Special Minelayer,500,"3-52N, 98-45E",Great Britain,Mine,Sunk
+,27,,ODATE,Repair Ship,"1,564","30-40N, 127-50E",United States,Submarine*,Sunk
+,28,,COAST DEFENSE VESSEL NO 33,Frigate,800,"31-45N, 131-40E",United States,Navy Carrier-,Sunk
+,28,,MINESWEEPER NO 11,Minesweeper,492,"5-10S, 119-05E",United States,Army Aircraft,Sunk
+,28,,PATROL BOAT NO 108,Yacht,108,"4-15S, 119-05E",United States,Army Aircraft,Sunk
+,28,,MIKURA,Frigate,900,"31-49N, 131-44E",United States,Submarine,Sunk
+,29,,COAST DEFENSE VESSEL NO 18,Frigate,"1,000","14-30N, 109-15E",United States,Army Aircraft,Sunk
+,29,,COAST DEFENSE VESSEL NO 130,Frigate,"1,000","14-39N, 109-16E",United States,Army Aircraft,Sunk
+,29,,SPECIAL SUBMARINE CHASER NO 192,Special Submarine Chaser,100,"22-40N, 120-15E",United States,Army Aircraft,Sunk
+,29,,COAST DEFENSE VESSEL NO 84,Frigate,"1,000","14-30N, 109-16E",United States,Submarine,Sunk
+,30,,I 8,Submarine,"1,995","25-29N, 128-35E",United States,Surface Craft,Sunk
+April,2,1945,COAST DEFENSE VESSEL NO 186,Frigate,800,"28-07N, 129-09E",United States,Navy Carrier-,Probably sunk
+,2,,TRANSPORT NO 17,High Speed Transport,"1,500","28-07N, 129-09E",United States,Navy Carrier-,Sunk
+April       ,2,1945,TRANSPORT NO 145,Tank Landing Ship,"1,000","28-07N, 129-09E",United States,Navy Carrier-,Sunk
+,4,,RO 41,Submarine,965,"26-22N, 126-30E",United States,Surface Craft,Sunk
+,4,,RO 64,Submarine,988,"34-14N, 132-16S",United States,Army Mine,Sunk
+,4,,RO 67,Submarine,988,"34-00N, 133-00S",United States,Army Mine,Sunk
+,4,,MOKUTO,Frigate,900,"33-53N, 131-03E",United States,Army Mine,Sunk
+,6,,AMATSUKAZE,Destroyer,"1,900","24-30N, 118-10E",United States,Army Aircraft,Sunk
+,6,,COAST DEFENSE VESSEL NO 1,Frigate,"1,000","24-30N, 118-10E",United States,Army Aircraft,Sunk
+,6,,COAST DEFENSE VESSEL NO 134,Frigate,"1,000","24-30N, 118-10E",United States,Army Aircraft,Sunk
+,6,,MINESWEEPER NO 12,Minesweeper,630,"8-13S, 119-145",United States,Submarine,Sunk
+,7,,YAMATO,Battleship,"63,000","30-54N, 128-10E",United States,Navy Carrier-,Sunk
+,7,,YAHAGI,Light Cruiser,"7,000","30-54N, 128-10E",United States,Navy Carrier-,Sunk
+,7,,ASASHIMO,Destroyer,"2,100","31-00N, 128-00S",United States,Navy Carrier-,Sunk
+,7,,HAMAKAZE,Destroyer,"1,900","31-00N, 128-00E",United States,Navy Carrier-,Sunk
+,7,,ISOKAZE,Destroyer,"1,900","31-00N, 128-00E",United States,Navy Carrier-,Sunk
+,7,,KASUMI,Destroyer,"1,850","31-00N, 128-00E",United States,Navy Carrier-,Sunk
+,7,,ISUZU,Light Cruiser,"5,700","7-38S, 118-09E",United States,Submarine,Sunk
+,8,,RO 46,Submarine,965,"26-09N, 130-21E",United States,Surface Craft,Sunk
+,8,,SPECIAL SUBMARINE CHASER NO 101,Special Submarine Chaser,100,"4-35S, 122-17E",United States,Army Aircraft,Sunk
+,9,,MINESWEEPER NO 3,Minesweeper,615,"39-06N, 141-57E",United States,Submarine,Sunk
+,10,,I 44,Submarine,"2,212","23-12N, 132-23E",United States,Surface Craft,Sunk
+,11,,SUBMARINE CHASER NO 7,Submarine Chaser,270,"8-57N, 93-38E",Great Britain,Army Aircraft,Sunk
+,13,,SPECIAL MINESWEEPER NO 104,Special Minesweeper,215,"8-05S, 115-06E",Great Britain,Submarine,Sunk
+,14,,COAST DEFENSE VESSEL NO 31,Frigate,800,"33-25N, 126-15E",United States,Submarine,Sunk
+,14,,NOMI,Frigate,900,"33-25N, 126-15E",United States,Submarine,Sunk
+,16,,COAST DEFENSE VESSEL NO 73,Frigate,800,"39-36N, 142-05E",United States,Submarine,Sunk
+,17,,I 56,Submarine,"2,140","26-42N, 130-38E",United States,Navy Carrier-,Sunk
+,17,,RO 56,Submarine,889,"19-17N, 166-35E",United States,Submarine,Sunk
+,25,,MINESWEEPER NO 41,Minesweeper,492,"25-53N, 121-08E",United States,Submarine,Sunk
+,26,,SPECIAL MINESWEEPER NO 3,Special Minesweeper,215,"4-50S, 115-40E",Great Britain,Submarine,Sunk
+April       ,28,1945,SUBMARINE CHASER NO 17,Submarine Chaser,440,"32-34N, 128-52E",United States,Submarine,Sunk
+,28,,TRANSPORT NO 146,Tank Landing Ship,"1,000","32-24N, 128-40E",United States,Submarine,Sunk
+,28,,HATSUSHIMA,Repair Ship,"2,000","33-58N, 136-17E",United States,Submarine,Sunk
+,29,,RO 109,Submarine,525,"24-15N, 131-16E",United States,Navy Carrier-,Sunk
+May,2,1945,OJIKA,Frigate,"1,000","33-58N, 122-58E",United States,Submarine,Sunk
+,3,,COAST DEFENSE VESSEL NO 25,Frigate,"1,000","34-38N, 124-15E",United States,Submarine,Sunk
+,4,,MINESWEEPER NO 20,Minesweeper,492,"34-16N, 123-37E",United States,Submarine,Sunk
+,7,,MINESWEEPER NO 29,Minesweeper,630,"34-02N, 130-54E",United States,Army Mine,Sunk
+,8,,SPECIAL SUBMARINE CHASER NO 210,Special Submarine Chaser,100,"23-00N, 115-00E",United States,Army Aircraft,Sunk
+,16,,HATSUTAKA,Minelayer,"1,500","4-54N, 103-28E",United States,Submarine,Sunk
+,16,,HAGURO,Heavy Cruiser,"12,700","5-00N, 99-30E",Great Britain,Surface Craft,Sunk
+,21,,MINESWEEPER NO 34,Minesweeper,492,"6-15S, 116-01E",United States,Submarine,Sunk
+,22,,SUBMARINE CHASER NO 37,Submarine Chaser,440,"29-45N, 129-10E",United States,Navy Carrier- Based Aircraft,Sunk
+,22,,SUBMARINE CHASER NO 58,Submarine Chaser,440,"29-45N, 129-10E",United States,Navy Carrier-Based Aircraft,Sunk
+,22,,TRANSPORT NO 173,Tank Landing Ship,"1,000","29-45N, 129-10E",United States,Navy Carrier-Based Aircraft,Sunk
+,25,,SPECIAL MINESWEEPER NO 105,Special Minesweeper,200,"6-23S, 110-55E",Great Britain,Submarine,Sunk
+,26,,SPECIAL SUBMARINE CHASER NO 172,Special Submarine Chaser,100,"36-48N, 137-05E",United States,Army Mine,Sunk
+,28,,COAST DEFENSE VESSEL NO 29,Frigate,800,"33-07N, 129-44E",United States,Army Mine,Sunk
+,30,,I 12,Submarine,"2,443","22-22N, 134-09E",United States,Navy Carrier- Based Aircraft,Sunk
+June,33,1945,I 361,Submarine,"1,470",Off Japan,Unknown,Unknown,Sunk
+,4,,SPECIAL SUBMARINE CHASER NO 112,Special Submarine Chaser,300,"5-00S, 116-04E",United States,Army Aircraft,Sunk
+,6,,SPECIAL SUBMARINE CHASER NO 195,Special Submarine Chaser,100,"37-10N, 137-05E",United States,Army Mine,Sunk
+,8,,ASHIGARA,Heavy Cruiser,"12,700","1-59S, 104-57E",Great Britain,Submarine,Sunk
+,9,,COAST DEFENSE VESSEL NO 41,Frigate,800,"34-18N, 127-18E",United States,Submarine,Sunk
+,10,,I 122,Submarine,"1,142","37-29N, 137-25E",United States,Submarine,Sunk
+,11,,SPECIAL SUBMARINE CHASER NO 237,Special Submarine Chaser,100,"34-35N, 132-20E",United States,Navy Land-,Sunk
+June      ,12,1945,SUBMARINE CHASER NO 57,Submarine Chaser,440,"6-20N, 94-45E",Great Britain,Surface Craft,Sunk
+,12,,TRANSPORT NO 149,Tank Landing Ship,"1,000","6-20N, 94-45E",Great Britain,Surface Craft,Sunk
+,23,,SHUTTLE BOAT NO 833,Miscellaneous Auxiliary,200,"5-50S, 114-18E",United States,Submarine,Sunk
+,23,,SPECIAL SUBMARINE CHASER NO 42,Special Submarine Chaser,100,"5-50S, 114-18E",United States,Submarine,Sunk
+,23,,SPECIAL SUBMARINE CHASER NO 113,Special Submarine Chaser,200,"5-50S, 114-18E",United States,Submarine,Sunk
+,27,,I 165,Submarine,"1,635","15-28N, 153-39E",United States,Navy Land-Based Aircraft,Sunk
+,27,,SUBMARINE CHASER NO 2,Submarine Chaser,300,"7-25S, 116-00E",United States,Submarine,Sunk
+,28,,ENOKI,Destroyer,"1,260","35-26N, 135-44E",United States,Army Mine,Sunk
+July,1,1945,COAST DEFENSE VESSEL NO 72,Frigate,800,"38-08N, 124-38E",United States,Submarine,Sunk
+,2,,SPECIAL SUBMARINE CHASER NO 188,Special Submarine Chaser,100,"33-59N, 130-52E",United States,Army Mine,Sunk
+,5,,SPECIAL SUBMARINE CHASER NO 37,Special Submarine Chaser,100,"8-10S, 114-50E",United States,Submarine,Sunk
+,7,,NARA,Destroyer,"1,000","33-54N, 130-49E",United States,Army Mine,Sunk
+,9,,SPECIAL SUBMARINE CHASER NO 50,Special Submarine Chaser,100,"2-13N, 105-03E",United States,Submarine,Sunk
+,10,,MINESWEEPER NO 27,Minesweeper,630,"39-20N, 142-07E",United States,Submarine,Sunk
+,11,,SAKURA,Destroyer,"1,000","35-50N, 135-20E",United States,Army Mine,Sunk
+,14,,TACHIBANA,Destroyer,"1,000","41-48N, 140-41E",United States,Navy Carrier- Based Aircraft,Sunk
+,14,,COAST DEFENSE VESSEL NO 65,Frigate,800,"42-21N, 140-59E",United States,Navy Carrier- Based Aircraft,Sunk
+,14,,COAST DEFENSE VESSEL NO 74,Frigate,800,"42-21N, 140-59E",United States,Navy Carrier-Based Aircraft,Sunk
+,14,,COAST DEFENSE VESSEL NO 219,Frigate,800,"41-48N, 140-41E",United States,Navy Carrier-Based Aircraft,Sunk
+,14,,I 351,Submarine,"2,650","4-30N, 110-00E",United States,Submarine,Sunk
+,15,,MINESWEEPER NO 24,Minesweeper,630,"41-38N, 141-00E",United States,Navy Carrier-Based Aircraft,Sunk
+,15,,I 13,Submarine,"2,640","34-28N, 150-55E",United States,Navy Carrier-Based Aircraft Surface Craft,Sunk
+,16,,KARI,Torpedo Boat,595,"5-48S, 115-53E",United States,Submarine,Sunk
+,18,,KASUGA,Old Heavy Cruiser,"7,080","35-18N, 139-40E",United States,Navy Carrier-Based Aircraft,Sunk
+,18,,COAST DEFENSE VESSEL NO 112,Frigate,800,"46-03N, 142-16E",United States,Submarine,Sunk
+July      ,20,1945,MINESWEEPER NO 39,Minesweeper,630,"35-01N, 125-42E",United States,Submarine,Sunk
+,23,,SPECIAL SUBMARINE CHASER NO 117,Special Submarine Chaser,200,"8-10S, 115-29E",United States,Submarine,Sunk
+,24,,AMAGI,Aircraft Carrier,"18,500","34-11N, 132-30E",United States,Navy Carrier-Based Aircraft,Sunk
+,24,,TONE,Heavy Cruiser,"12,000","34-14N, 132-27E",United States,Navy Carrier-Based Aircraft,Sunk
+,24,,HYUGA,Battleship,"34,500","34-10N, 132-33E",United States,Navy Carrier-Based Aircraft,Sunk
+,24,,KAIYO,Escort Aircraft Carrier,"17,000","33-21N, 131-32E",United States,Army Aircraft Army Mine Navy Carrier-Based Aircraft,Sunk
+,25,,PATROL BOAT NO 2,Old Destroyer,750,"7-07S, 115-40E",Great Britain,Submarine,Sunk
+,27,,TRANSPORT NO 176,Tank Landing Ship,"1,000","31-00N, 130-33E",United States,Army Aircraft,Sunk
+,28,,AOBA,Heavy Cruiser,"8,800","34-13N, 132-31E",United States,Navy Carrier-Based Aircraft,Sunk
+,28,,I 372,Submarine,"1,660","33-00N, 133-00E",United States,Navy Carrier-Based Aircraft,Sunk
+,28,,HARUNA,Battleship,"31,000","34-15N, 132-29E",United States,Navy Carrier-Based Aircraft,Sunk
+,28,,ISE,Battleship,"34,500","34-12N, 132-31E",United States,Navy Carrier-Based Aircraft,Sunk
+,28,,OYODO,Light Cruiser,"8,500","34-13N, 132-25E",United States,Navy Carrier-Based Aircraft,Sunk
+,28,,NASHI,Destroyer,850,"34-14N, 132-30E",United States,Navy Carrier-Based Aircraft,Sunk
+,28,,COAST DEFENSE VESSEL NO 4,Frigate,800,"34-00N, 134-50E",Great Britain,Aircraft,Sunk
+,28,,COAST DEFENSE VESSEL NO 30,Frigate,800,"34-43N, 136-43E",Great Britain,Aircraft,Sunk
+,28,,IWATE,Old Heavy Cruiser,"9,180","34-14N, 132-30E",United States,Navy Carrier-Based Aircraft,Sunk
+,28,,IZUMO,Old Heavy Cruiser,"9,180","34-14N, 132-30E",United States,Navy Carrier-Based Aircraft,Sunk
+,29,,SPECIAL SUBMARINE CHASER NO 207,Special Submarine Chaser,100,"32-00N, 130-00E",United States,Army Aircraft,Sunk
+,30,,OKINAWA,Frigate,900,"35-30N, 135-21E",United States,Navy Carrier-Based Aircraft,Sunk
+,30,,HATSUSHIMO,Destroyer,"1,600","35-33N, 135-12E",United States,Army Mine,Sunk
+August  ,7,1945,COAST DEFENSE VESSEL NO 39,Frigate,800,"35-06N, 129-03E",United States,Army Aircraft,Sunk
+,7,,SPECIAL SUBMARINE CHASER NO 66,Special Submarine Chaser,100,"7-23N, 151-53E",United States,Army Aircraft,Sunk
+,9,,AMAKUSA,Frigate,860,"38-26N, 141-30E",United States,Navy Carrier-Based Aircraft,Sunk
+,9,,INAGI,Frigate,900,"38-26N, 141-30E",United States,Navy Carrier-Based Aircraft,Sunk
+,9,,MINESWEEPER NO 1,Minesweeper,615,"38-26N, 141-30E",United States,Navy Carrier-Based Aircraft,Sunk
+,9,,MINESWEEPER NO 33,Minesweeper,630,"38-26N, 141-30E",United States,Navy Carrier-Based Aircraft,Sunk
+,9,,TRANSPORT NO 21,High Speed Transport,"1,500","33-59N, 132-31E",United States,Army Aircraft,Sunk
+,9,,COAST DEFENSE VESSEL NO 82,Frigate,800,"41-21N, 131-12E",Russia,Aircraft*,Sunk
+,10,,SUBMARINE CHASER NO 42,Submarine Chaser,440,"38-26N, 141-30E",United States,Navy Carrier-Based Aircraft,Sunk
+,13,,I 373,Submarine,"1,660","29-02N, 123-53E",United States,Submarine,Sunk
+,13,,COAST DEFENSE VESSEL NO 6,Frigate,800,"42-11N, 142-14E",United States,Submarine,Sunk
+,14,,COAST DEFENSE VESSEL NO 13,Frigate,800,"35-42N, 134-35E",United States,Submarine,Sunk
+,14,,COAST DEFENSE VESSEL NO 47,Frigate,800,"35-42N, 134-36E",United States,Submarine,Sunk
+,15,,KANJU,Frigate,860,"39-10N, 127-27E",Russia,Aircraft*,Sunk

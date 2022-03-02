@@ -1,0 +1,687 @@
+﻿Type of Vessel,Ship Type,Date,Latitude,Longitude
+I 170,Submarine,12/10/41,23.75,-155.6
+Minesweeper No 10,Minesweeper,12/10/41,17.53333333,120.3666667
+Minesweeper No 19,Minesweeper,12/10/41,18.36666667,121.6333333
+Hayate,Destroyer,12/11/41,19.26666667,166.6166667
+Kisaragi,Destroyer,12/11/41,19.26666667,166.6166667
+Ro 66,Submarine,12/17/41,19.41666667,166.5
+Shinonome,Destroyer,12/18/41,4.4,114
+Patrol Boat No 32,Old Destroyer,12/22/41,19.28333333,166.5833333
+Patrol Boat No 33,Old Destroyer,12/22/41,19.28333333,166.5833333
+Sagiri,Destroyer,12/24/41,1.566666667,110.35
+Minesweeper No 6,Minesweeper,12/26/41,1.566666667,110.35
+Ro 60,Submarine,12/29/41,9,167.6666667
+Minesweeper No 13,Minesweeper,1/12/42,3.25,113.5833333
+Minesweeper No 14,Minesweeper,1/12/42,3.25,113.5833333
+I 160,Submarine,1/17/42,-6,105
+I 124,Submarine,1/20/42,-11.91666667,130.1
+Patrol Boat No 37,Old Destroyer,1/24/42,0.166666667,118
+I 173,Submarine,1/27/42,28.4,178.5833333
+I 23,Submarine,1/29/42,20.58333333,-155.4833333
+Minesweeper No 9,Minesweeper,2/2/42,-2.3,128.1666667
+Natsushio,Destroyer,2/8/42,-4.833333333,119.4
+Unknown,Frigate,4/3/42,0.6,119.3166667
+Ro 30,Submarine,4/26/42,18.18333333,-166.9
+Mizuho,Seaplane Tender,5/2/42,34.43333333,138.2333333
+Kikutsuki,Destroyer,5/4/42,-8.883333333,160.2
+Shoho,Light Aircraft Carrier,5/7/42,-9.516666667,152.9166667
+Okinoshima,Minelayer,5/11/42,-4.9,153.8
+I 28,Submarine,5/17/42,-1.5,152
+I 164,Submarine,5/17/42,-5.583333333,134.15
+Asahi,Repair Ship,5/25/42,-7,110
+Ro 35,Submarine,6/1/42,-9,0
+Akagi,Aircraft Carrier,6/4/42,-8,-179
+Kaga,Aircraft Carrier,6/4/42,-9,-179
+Hiryu,Light Aircraft Carrier,6/4/42,-7.75,179.0833333
+Soryu,Light Aircraft Carrier,6/4/42,-8.783333333,179.2833333
+Mikuma,Heavy Cruiser,6/6/42,-9,173
+Yamakaze,Destroyer,6/25/42,-8.433333333,140.4333333
+Nenohi,Destroyer,7/4/42,-7.75,173.85
+Arare,Destroyer,7/5/42,-8,177.6666667
+Ro 32,Submarine,7/9/42,-9.666666667,-134.6666667
+Submarine Chaser No 25,Submarine Chaser,7/15/42,-8.966666667,177.7
+Submarine Chaser No 27,Submarine Chaser,7/15/42,-8.966666667,177.7
+Kako,Heavy Cruiser,8/10/42,-8.75,152.25
+Ryujo,Light Aircraft Carrier,8/24/42,-7.666666667,160.8333333
+Mutsuki,Destroyer,8/25/42,-8.216666667,160.2166667
+I 123,Submarine,8/28/42,-8.65,160.7166667
+Asagiri,Destroyer,8/28/42,-7,160.1666667
+Ro 33,Submarine,8/29/42,-8.4,147.1
+Ro 61,Submarine,8/31/42,-8.4,-173.95
+Ro 65,Submarine,9/33/1942,-7,
+Yayoi,Destroyer,9/11/42,-8.25,151.4166667
+I 30,Submarine,10/33/1942,-5,105
+Furutaka,Heavy Cruiser,10/11/42,-5,159.8333333
+Fubuki,Destroyer,10/11/42,-4.833333333,159.6666667
+Natsugumo,Destroyer,10/11/42,-7.833333333,159.6666667
+Murakumo,Destroyer,10/12/42,-7.333333333,158.3333333
+Oboro,Destroyer,10/16/42,-1.716666667,178.1333333
+Yura,Light Cruiser,10/25/42,-1.333333333,160
+I 172,Submarine,11/10/42,-8.783333333,161.15
+Akatsuki,Destroyer,11/13/42,-8.833333333,159.75
+Yudachi,Destroyer,11/13/42,-13.83333333,149.75
+Hiyei,Battleship,11/13/42,0,159
+Kinugasa,Heavy Cruiser,11/14/42,0.75,157.1666667
+Kirishima,Battleship,11/15/42,-6.833333333,159.9166667
+Ayanami,Destroyer,11/15/42,-7,159.75
+Hayashio,Destroyer,11/24/42,-7,140.5
+Takanami,Destroyer,11/30/42,-6.833333333,159.75
+I 3,Submarine,12/10/42,-7.766666667,159.6666667
+Terutsuki,Destroyer,12/12/42,-7.166666667,157.5
+I 15,Submarine,12/16/42,-7.833333333,159.5
+Tenryu,Light Cruiser,12/18/42,-4.816666667,145.95
+I 4,Submarine,12/20/42,-7.966666667,152.55
+Patrol Boat No 35,Old Destroyer,12/22/42,-7.916666667,156.0666667
+I 22,Submarine,12/25/42,-7.466666667,148.2833333
+I 18,Submarine,1/2/43,-14.18333333,157.15
+Okikaze,Destroyer,1/10/43,-7.966666667,140.2
+Patrol Boat No 1,Old Destroyer,1/12/43,-6.15,149.7166667
+Hakaze,Destroyer,1/23/43,-6.216666667,150.6333333
+I 1,Submarine,1/29/43,-7.783333333,159.6166667
+Makigumo,Destroyer,2/1/43,-6.833333333,159.75
+Ro 102,Submarine,2/11/43,-5.75,161.9833333
+Oshio,Destroyer,2/20/43,-6.166666667,146.1
+Unknown,Frigate,2/20/43,-6.166666667,146.1
+Arashio,Destroyer,3/3/43,-5.75,148.5
+Asashio,Destroyer,3/3/43,-1.833333333,148.25
+Tokitsukaze,Destroyer,3/3/43,-4.75,148.5
+Shirayuki,Destroyer,3/3/43,-4.75,148.5
+Minegumo,Destroyer,3/6/43,-5.916666667,157.25
+Murasame,Destroyer,3/6/43,-5.916666667,157.25
+Submarine Chaser No 13,Submarine Chaser,4/3/43,-7,142
+Ro 34,Submarine,4/4/43,-6.75,158.9166667
+Isonami,Destroyer,4/9/43,-6.566666667,123.0666667
+Patrol Boat No 39,Old Destroyer,4/23/43,-6.25,122.75
+Kuroshio,Destroyer,5/8/43,-6.916666667,156.9166667
+Oyashio,Destroyer,5/8/43,-22.91666667,156.9166667
+Kagero,Destroyer,5/8/43,-2.916666667,156.9166667
+Ro 107,Submarine,5/28/43,-11.41666667,167.2833333
+Mutsu,Battleship,6/8/43,-12.91666667,132.3333333
+I 9,Submarine,6/10/43,-5.733333333,174.4
+I 31,Submarine,6/13/43,-9.866666667,177.6333333
+I 7,Submarine,6/22/43,-4.183333333,177.3333333
+Ro 101,Submarine,7/1/43,-6.35,157.5833333
+Nagatsuki,Destroyer,7/6/43,-6.05,157.2
+Niizuki,Destroyer,7/6/43,-3.05,157.2
+I 25,Submarine,7/11/43,-4,157.3166667
+Jintsu,Light Cruiser,7/13/43,-4.4,157.1
+Hatsuyuki,Destroyer,7/17/43,-5.166666667,155.7833333
+Kiyonami,Destroyer,7/20/43,-5.783333333,156.75
+Yugure,Destroyer,7/20/43,-3.583333333,156.75
+Nisshin,Seaplane Tender,7/22/43,-1.416666667,156.1666667
+Hirashima,Special Minelayer,7/27/43,-4.466666667,127.6833333
+I 24,Submarine,7/27/43,-3.166666667,149.0166667
+Ariake,Destroyer,7/28/43,-3.55,148.4166667
+Mikatsuki,Destroyer,7/28/43,-4.55,148.4166667
+Motor Torpedo Boat No 112,Torpedo Boat,8/2/43,-4.333333333,146.8333333
+Motor Torpedo Boat No 113,Torpedo Boat,8/2/43,-3.333333333,146.8333333
+Arashi,Destroyer,8/6/43,-8.166666667,156.7833333
+Hagikaze,Destroyer,8/6/43,-1.166666667,156.7833333
+Kawakaze,Destroyer,8/6/43,-10.16666667,156.7833333
+Special Submarine Chaser No 5,Special Submarine Chaser,8/18/43,-0.566666667,156.75
+Special Submarine Chaser No 12,Special Submarine Chaser,8/18/43,-4.566666667,156.75
+I 17,Submarine,8/19/43,-1.566666667,166.8333333
+Special Submarine Chaser No 109,Special Submarine Chaser,8/19/43,-1.983333333,125.8333333
+I 178,Submarine,8/25/43,-1.05,164.3833333
+Mutsure,Frigate,9/2/43,-1.333333333,151.5166667
+I 168,Submarine,9/3/43,-2.833333333,165.4666667
+I 182,Submarine,9/9/43,-2.45,125.5166667
+Minesweeper No 16,Minesweeper,9/11/43,-1.866666667,119.3333333
+Ro 103,Submarine,9/15/43,-1.05,163.9333333
+Kasasagi,Torpedo Boat,9/26/43,0.833333333,121.95
+Peterel,River Gunboat,9/30/43,-1.8,110.4
+I 20,Submarine,10/1/43,-1.333333333,157.1666667
+Yugumo,Destroyer,10/6/43,-1.466666667,156.3333333
+Boko,Special Minelayer,10/12/43,-1.416666667,152.1833333
+Special Submarine Chaser No 31,Special Submarine Chaser,10/16/43,-4,152
+Mochitsuki,Destroyer,10/24/43,-4.3,151.6666667
+Sendai,Light Cruiser,11/2/43,0.333333333,154.3333333
+Hatsukaze,Destroyer,11/2/43,-3.666666667,154.3333333
+Minesweeper No 26,Minesweeper,11/2/43,-7.783333333,152.1833333
+Tsukushi,Surveying Ship,11/4/43,-3.333333333,150.6666667
+Special Submarine Chaser No 30,Special Submarine Chaser,11/4/43,-4.433333333,134
+Submarine Chaser No 11,Submarine Chaser,11/6/43,-8.566666667,154.55
+Suzunami,Destroyer,11/11/43,-6.783333333,152.1833333
+I 34,Submarine,11/12/43,-3.716666667,100.0833333
+Ukishima,Special Minelayer,11/16/43,-8,
+Sanaye,Old Destroyer,11/18/43,-7.133333333,122.1166667
+I 35,Submarine,11/23/43,-7.633333333,172.7833333
+Wakamiya,Frigate,11/23/43,-7.183333333,122.1833333
+I 19,Submarine,11/25/43,-4.833333333,171.9166667
+Yugiri,Destroyer,11/25/43,-3.2,153.9166667
+Makinami,Destroyer,11/25/43,-7.9,153.7333333
+Onami,Destroyer,11/25/43,-6.9,153.7333333
+Ro 38,Submarine,12/33/1943,-4,
+Chuyo,Escort Aircraft Carrier,12/4/43,-7.383333333,143.65
+I 179,Submarine,12/16/43,-3.533333333,147.3666667
+Numakaze,Destroyer,12/19/43,-5.516666667,128.4333333
+Fuyo,Old Destroyer,12/20/43,-5.266666667,119.9166667
+I 39,Submarine,12/23/43,-4.616666667,160.15
+Nanyo,Gunboat,12/23/43,-0.5,119.5
+Minesweeper No 31,Minesweeper,12/25/43,-4.4,150.8166667
+I 181,Submarine,1/33/1944,-5,
+Kuma,Light Cruiser,1/11/44,-5,99
+Sazanami,Destroyer,1/14/44,-6.75,141.25
+Ping Sang,Yacht,1/15/44,-8,107.3666667
+I 48,Submarine,1/22/44,-4.25,138.3333333
+Ro 37,Submarine,1/22/44,-7.216666667,164.2833333
+Special Submarine Chaser No 40,Special Submarine Chaser,1/22/44,-6.166666667,147.3333333
+Special Submarine Chaser No 14,Special Submarine Chaser,1/26/44,11.16666667,163.4166667
+Suzukaze,Destroyer,1/26/44,8.85,157.1666667
+Special Submarine Chaser No 28,Special Submarine Chaser,1/30/44,8.7,-174.35
+Special Submarine Chaser No 25,Special Submarine Chaser,1/30/44,8.7,167.7333333
+Special Submarine Chaser No 21,Special Submarine Chaser,1/30/44,8.7,167.7333333
+Special Submarine Chaser No 19,Special Submarine Chaser,1/30/44,8.7,167.7333333
+Special Submarine Chaser No 18,Special Submarine Chaser,1/30/44,8.7,167.7333333
+I 171,Submarine,1/31/44,5.616666667,154.2333333
+Special Submarine Chaser No 33,Special Submarine Chaser,1/31/44,8.7,167.7333333
+Nasami,Special Minelayer,1/31/44,9.833333333,147.1
+I 40,Submarine,2/33/1944,7.17,171.18
+Ro 39,Submarine,2/1/44,9.4,170.5333333
+Umikaze,Destroyer,2/1/44,7.166666667,151.7166667
+I 21,Submarine,2/4/44,6.8,168.1333333
+Minekaze,Destroyer,2/10/44,23.2,121.5
+Ro 110,Submarine,2/11/44,17.41666667,83.35
+I 27,Submarine,2/12/44,1.416666667,72.36666667
+I 43,Submarine,2/15/44,12.7,49.28333333
+Ro 40,Submarine,2/16/44,9.833333333,166.5833333
+Special Submarine Chaser No. 16,Special Submarine Chaser,2/16/44,2.4,150.1
+Agano,Light Cruiser,2/16/44,10.18333333,151.7
+I 11,Submarine,2/17/44,10.56666667,173.5166667
+Submarine Chaser No 24,Submarine Chaser,2/17/44,7.4,150.5
+Naka,Light Cruiser,2/17/44,7.25,151.25
+Fumitsuki,Destroyer,2/17/44,7.4,151.7333333
+Tachikaze,Destroyer,2/17/44,7.066666667,151.9166667
+Maikaze,Destroyer,2/17/44,7.75,151.3333333
+Oite,Destroyer,2/17/44,7.666666667,151.75
+Submarine Chaser No 29,Submarine Chaser,2/17/44,7.416666667,151.75
+Special Submarine Chaser No 29,Special Submarine Chaser,2/17/44,2.4,150.1
+Submarine Chaser No 39,Submarine Chaser,2/17/44,2.4,150.1
+Katori,Training Cruiser,2/17/44,7.75,151.3333333
+Special Submarine Chaser No 34,Special Submarine Chaser,2/19/44,2.75,150.7833333
+Submarine Chaser No 22,Submarine Chaser,2/19/44,3.066666667,150.7
+Submarine Chaser No 40,Submarine Chaser,2/19/44,3.066666667,150.7
+Special Submarine Chaser No 48,Special Submarine Chaser,2/21/44,2.5,150.25
+Natsushima,Special Minelayer,2/22/44,2.666666667,149.6666667
+Nagaura,Tug,2/22/44,0.9,148.6333333
+Francis Garnier,River Gunboat,2/22/44,10.5,108
+Astrolabe,Surveying Ship,2/26/44,16.06666667,108.2166667
+Karatsu,River Gunboat,3/3/44,8.866666667,123.3833333
+Shirakami,Special Minelayer,3/4/44,39.5,142
+Tatsuta,Light Cruiser,3/13/44,32.96666667,138.8666667
+Shirakumo,Destroyer,3/16/44,42.41666667,144.9166667
+Special Submarine Chaser No 47,Special Submarine Chaser,3/19/44,2.916666667,143.6666667
+Special Submarine Chaser No 49,Special Submarine Chaser,3/19/44,2.916666667,143.6666667
+I 42,Submarine,3/23/44,6.666666667,134.05
+I 32,Submarine,3/24/44,8.5,170.1666667
+Submarine Chaser No 54,Submarine Chaser,3/25/44,28.56666667,142.2333333
+Wakatake,Old Destroyer,3/30/44,7.833333333,134.3333333
+Patrol Boat No 31,Old Destroyer,3/30/44,7.5,134.5
+Special Submarine Chaser No 22,Special Submarine Chaser,3/30/44,7.5,134.5
+Special Submarine Chaser No 26,Special Submarine Chaser,3/30/44,7.5,134.5
+Special Submarine Chaser No 53,Special Submarine Chaser,3/30/44,7.5,134.5
+Submarine Chaser No 6,Submarine Chaser,3/30/44,7.5,134.5
+Akashi,Repair Ship,3/30/44,7.5,134.5
+I 169,Submarine,4/4/44,7.416666667,151.8333333
+Special Submarine Chaser No 46,Special Submarine Chaser,4/5/44,7.433333333,151.8666667
+I 2,Submarine,4/6/44,2.283333333,149.2333333
+Akigumo,Destroyer,4/11/44,6.716666667,122.3833333
+Ikazuchi,Destroyer,4/13/44,10.21666667,143.85
+Minesweeper No 7,Minesweeper,4/15/44,11.56666667,93.13333333
+Ro 45,Submarine,4/20/44,15.31666667,145.5166667
+Hokuan,Salvage Vessel,4/22/44,7.166666667,99.33333333
+Amagiri,Destroyer,4/23/44,2.166666667,116.75
+I 180,Submarine,4/26/44,55.16666667,-155.6666667
+Kamone,Special Minelayer,4/27/44,27.61666667,128.1833333
+Yubari,Light Cruiser,4/27/44,5.333333333,132.2666667
+I 183,Submarine,4/28/44,32.11666667,133.05
+I 174,Submarine,4/29/44,6.216666667,151.3166667
+Tahure,River Gunboat,4/29/44,13.03333333,109.4666667
+Special Submarine Chaser No 38,Special Submarine Chaser,4/30/44,7.366666667,151.75
+Karukaya,Old Destroyer,5/10/44,15.63333333,119.4166667
+Ro 501,Submarine,5/13/44,18.13333333,-33.21666667
+Inazuma,Destroyer,5/14/44,5.133333333,119.6333333
+I 176,Submarine,5/16/44,4.016666667,156.4833333
+I 16,Submarine,5/19/44,5.166666667,158.2833333
+Ro 106,Submarine,5/21/44,1.666666667,150.5166667
+Ro 104,Submarine,5/22/44,1.433333333,149.3333333
+Hashidate,Gunboat,5/22/44,21.33333333,117.1666667
+Asanagi,Destroyer,5/22/44,28.33333333,138.95
+Ro 116,Submarine,5/23/44,0.883333333,149.2333333
+Iki,Frigate,5/24/44,1.283333333,107.8333333
+Ro 108,Submarine,5/26/44,0.533333333,148.5833333
+Ro 105,Submarine,5/29/44,0.783333333,149.9333333
+Ishigaki,Frigate,5/30/44,48.5,151.5
+Awaji,Frigate,6/2/44,22.56666667,121.85
+Transport No 128,Tank Landing Ship,6/4/44,4,129.75
+Coast Defense Vessel No 15,Frigate,6/6/44,8.966666667,109.5
+Minatsuki,Destroyer,6/6/44,4.083333333,119.5
+Hayanami,Destroyer,6/7/44,4.716666667,120.05
+Harusame,Destroyer,6/8/44,0.083333333,132.75
+Kazegumo,Destroyer,6/8/44,6.05,125.95
+Matsukaze,Destroyer,6/9/44,26.98333333,143.2166667
+Tanikaze,Destroyer,6/9/44,5.7,120.6833333
+I 5,Submarine,6/10/44,0.433333333,149.2666667
+Ro 111,Submarine,6/10/44,10.08333333,168.3666667
+I 33,Submarine,6/12/44,33.5,132.5
+Otori,Torpedo Boat,6/12/44,17.53333333,144
+Special Submarine Chaser No 35,Special Submarine Chaser,6/12/44,17.5,143.3
+Special Submarine Chaser No 54,Special Submarine Chaser,6/12/44,17.5,143.3
+Special Submarine Chaser No 56,Special Submarine Chaser,6/12/44,17.5,143.3
+Ro 36,Submarine,6/13/44,15.35,147
+Transport No 1,High Speed Transport,6/13/44,11.5,140
+Shiratsuyu,Destroyer,6/15/44,9.15,126.85
+Ro 44,Submarine,6/15/44,11.21666667,164.25
+Special Minelayer No 101,Special Minelayer,6/15/44,15.25,145.75
+Ro 114,Submarine,6/16/44,15.03333333,144.1666667
+Ro 117,Submarine,6/17/44,11.08333333,150.5166667
+I 184,Submarine,6/19/44,13.01666667,149.8833333
+Shokaku,Aircraft Carrier,6/19/44,11.83333333,137.95
+Taiho,Aircraft Carrier,6/19/44,12.36666667,137.0666667
+Hitaka,Aircraft Carrier,6/20/44,15.5,133.5
+I 185,Submarine,6/22/44,15.83333333,147.1333333
+I 52,Submarine,6/24/44,15.26666667,-39.91666667
+Coast Defense Vessel No 24,Frigate,6/28/44,24.73333333,140.3333333
+Tsugaru,Minelayer,6/29/44,2.316666667,127.95
+I 10,Submarine,7/4/44,15.43333333,147.8
+Submarine Chaser No 16,Submarine Chaser,7/4/44,27,140.8333333
+Sarushima,Special Minelayer,7/4/44,27.16666667,142.1666667
+Transport No 103,Tank Landing Ship,7/4/44,27.08333333,142.15
+Transport No 130,Tank Landing Ship,7/4/44,24.78333333,141.3333333
+Hokaze,Destroyer,7/6/44,3.4,125.4666667
+Usugumo,Destroyer,7/7/44,47.71666667,147.9166667
+Tamanami,Destroyer,7/7/44,13.91666667,118.5
+Special Submarine Chaser No 23,Special Submarine Chaser,7/10/44,4.216666667,152.1833333
+I 6,Submarine,7/13/44,15.3,144.4333333
+I 166,Submarine,7/17/44,5.166666667,100
+Minesweeper No 25,Minesweeper,7/17/44,33.85,138.5833333
+Ro 48,Submarine,7/18/44,13.01666667,151.9666667
+Submarine Chaser No 50,Submarine Chaser,7/18/44,29.36666667,139.2333333
+Special Minesweeper No 4,Special Minesweeper,7/19/44,8.633333333,125.4333333
+Oi,Light Cruiser,7/19/44,12.75,114.3333333
+Unknown ,Special Submarine Chaser,7/25/44,7.083333333,134.3333333
+Samidare,Destroyer,7/25/44,8.166666667,134.6333333
+Sokuten,Special Minelayer,7/26/44,7.333333333,134.45
+Transport No 150,Tank Landing Ship,7/26/44,7.5,134.5
+I 29,Submarine,7/26/44,20.16666667,121.8333333
+I 55,Submarine,7/28/44,14.43333333,152.2666667
+Matsu,Destroyer,8/4/44,27.66666667,141.8
+Transport No 4,High Speed Transport,8/4/44,27.11666667,142.2
+Transport No 133,Tank Landing Ship,8/4/44,24.78333333,141.3333333
+Transport No 152,Tank Landing Ship,8/4/44,24.78333333,141.3333333
+Transport No 2,High Speed Transport,8/5/44,27.08333333,142.15
+Special Submarine Chaser No 94,Special Submarine Chaser,8/7/44,20,122
+Kusakaki,Frigate,8/7/44,14.85,119.9833333
+Nagara,Light Cruiser,8/7/44,32.15,129.8833333
+Submarine Chaser No 12,Submarine Chaser,8/13/44,6.283333333,126.15
+Transport No 129,Tank Landing Ship,8/14/44,4.283333333,126.7666667
+Otaka,Escort Aircraft Carrier,8/18/44,13.26666667,120.3333333
+Natori,Light Cruiser,8/18/44,12.48333333,128.8166667
+Sado,Frigate,8/22/44,14.25,120.0833333
+Matsuwa,Frigate,8/22/44,14.25,120.0833333
+Hiburi,Frigate,8/22/44,14.25,120.0833333
+Asakaze,Destroyer,8/23/44,16.1,119.7333333
+Minesweeper No 22,Minesweeper,8/23/44,8.15,134.6333333
+Yunagi,Destroyer,8/25/44,18.76666667,120.7666667
+Special Submarine Chaser No 77,Special Submarine Chaser,8/28/44,50.5,156.3333333
+Minesweeper No 28,Minesweeper,8/29/44,2.05,122.4666667
+Shirataka,Minelayer,8/31/44,21.08333333,121.4333333
+Special Submarine Chaser No 8,Special Submarine Chaser,9/9/44,3.9,98.73333333
+Special Submarine Chaser No 165,Special Submarine Chaser,9/11/44,32.33333333,131.8333333
+Submarine Chaser No 55,Submarine Chaser,9/12/44,10.33333333,124
+Miho,Salvage Vessel,9/12/44,10.58333333,124
+Shikinami,Destroyer,9/12/44,18.26666667,114.6666667
+Hirado,Frigate,9/12/44,17.9,114.8166667
+Transport No 5,High Speed Transport,9/14/44,6.166666667,126
+Ro 42,Submarine,9/15/44,34.5,145.3833333
+Transport No 3,High Speed Transport,9/15/44,5.566666667,125.3833333
+Unyo,Escort Aircraft Carrier,9/16/44,19.3,116.4333333
+Ioshima,Frigate,9/19/44,33.66666667,138.3
+Satsuki,Destroyer,9/21/44,14.58333333,120.9166667
+Coast Defense Vessel No 5,Frigate,9/21/44,15.41666667,119.8333333
+Sunosaki,Repair Ship,9/21/44,14.58333333,120.9166667
+Katsuriki,Surveying Ship,9/21/44,13.58333333,119.1
+Hayabusa,Torpedo Boat,9/24/44,13,122
+Special Submarine Chaser No 39,Special Submarine Chaser,9/24/44,12.35,123
+Submarine Chaser No 32,Submarine Chaser,9/24/44,12.25,121
+Special Minesweeper No 7,Special Minesweeper,9/24/44,11.75,123.5
+Yaeyama,Minelayer,9/24/44,12.25,121
+Akitsushima,Seaplane Tender,9/24/44,11.98333333,120.0333333
+I 175,Submarine,9/25/44,9.316666667,136.7333333
+Aotaka,Minelayer,9/26/44,7,116
+Coast Defense Vessel No 10,Frigate,9/27/44,29.43333333,128.8333333
+Ajiro,Special Minelayer,10/1/44,28.18333333,139.5
+I 364,Submarine,10/2/44,7.8,133.4666667
+Transport No 134,Tank Landing Ship,10/4/44,24.78333333,141.3333333
+Saga,Gunboat,10/6/44,22.28333333,114.1666667
+Special Submarine Chaser No 2,Special Submarine Chaser,10/6/44,4.333333333,98.4
+Coast Defense Vessel No 21,Frigate,10/6/44,19.45,118.1333333
+Transport No 158,Tank Landing Ship,10/10/44,26.63333333,127.8666667
+Jingei,Submarine Tender,10/10/44,26.65,127.8666667
+Transport No 105,Tank Landing Ship,10/11/44,33.3,137.7
+Hato,Torpedo Boat,10/16/44,21.9,116.5
+Itsukushima,Minelayer,10/17/44,5.433333333,113.8
+Special Submarine Chaser No 95,Special Submarine Chaser,10/18/44,18.9,121.85
+Transport No 135,Tank Landing Ship,10/18/44,17.76666667,120.4166667
+Transport No 136,Tank Landing Ship,10/18/44,17.76666667,120.4166667
+Special Submarine Chaser No 15,Special Submarine Chaser,10/22/44,11.5,124
+Maya,Heavy Cruiser,10/23/44,9.483333333,117.3333333
+Atago,Heavy Cruiser,10/23/44,9.4,117.1833333
+I 362,Submarine,10/24/44,9.75,126.75
+Musashi,Battleship,10/24/44,12.83333333,122.5833333
+Wakaba,Destroyer,10/24/44,11.83333333,121.4166667
+Fuso,Battleship,10/25/44,10.41666667,125.3333333
+Yamashiro,Battleship,10/25/44,10.41666667,125.3333333
+Asagumo,Destroyer,10/25/44,10.41666667,125.3333333
+Yamagumo,Destroyer,10/25/44,10.41666667,125.3333333
+Michishio,Destroyer,10/25/44,10.41666667,125.3333333
+Hatsutsuki,Destroyer,10/25/44,20.4,126.3333333
+Zuikaku,Aircraft Carrier,10/25/44,19.33333333,125.85
+Suzuya,Heavy Cruiser,10/25/44,11.5,126.5
+Chiyoda,Light Aircraft Carrier,10/25/44,18.61666667,126.75
+Zuiho,Light Aircraft Carrier,10/25/44,19.33333333,125.85
+Special Submarine Chaser No 62,Special Submarine Chaser,10/25/44,7.5,134.5
+Chikuma,Heavy Cruiser,10/25/44,11.5,126.5
+Chokai,Heavy Cruiser,10/25/44,11.5,126.5
+Mogami,Heavy Cruiser,10/25/44,9.666666667,124.8333333
+Chitose,Light Aircraft Carrier,10/25/44,19.33333333,126.3333333
+Akitsuki,Destroyer,10/25/44,20.48333333,126.6
+Tama,Light Cruiser,10/25/44,21.38333333,127.3166667
+Nowaki,Destroyer,10/26/44,13,124.9
+Kinu,Light Cruiser,10/26/44,11.76666667,123.1833333
+Noshiro,Light Cruiser,10/26/44,11.58333333,121.75
+Hayashimo,Destroyer,10/26/44,12.08333333,121.8333333
+Uranami,Destroyer,10/26/44,11.83333333,123
+Abukuma,Light Cruiser,10/26/44,9.333333333,122.5
+Fujinami,Destroyer,10/27/44,12,122.5
+Shiranuhi,Destroyer,10/27/44,12,122.5
+Transport No 138,Tank Landing Ship,10/27/44,25.36666667,141.5166667
+I 45,Submarine,10/28/44,10.16666667,127.4666667
+I 54,Submarine,10/28/44,10.93333333,127.2166667
+Kaiyo No 6,District Craft,10/31/44,32.83333333,134.35
+Akikaze,Destroyer,11/3/44,16.8,117.2833333
+Minesweeper No 5,Minesweeper,11/4/44,3.233333333,99.83333333
+Transport No 112,High Speed Transport,11/5/44,12.66666667,121.3666667
+Nachi,Heavy Cruiser,11/5/44,14.38333333,120.4166667
+Patrol Boat No 107,Yacht,11/5/44,13.83333333,120.3333333
+Notoro,Seaplane Tender,11/5/44,1.3,103.8666667
+Transport No 139,Tank Landing Ship,11/6/44,14.58333333,120.9166667
+Special Submarine Chaser No 118,Special Submarine Chaser,11/6/44,9.633333333,120.2833333
+Sagi,Torpedo Boat,11/8/44,16.15,118.9333333
+Coast Defense Vessel No 11,Frigate,11/10/44,10.83333333,124.5833333
+Patrol Boat No 46,Old Destroyer,11/10/44,34.5,138.5666667
+Naganami,Destroyer,11/11/44,10.83333333,124.5833333
+Hamanami,Destroyer,11/11/44,10.83333333,124.5833333
+Shimakaze,Destroyer,11/11/44,10.83333333,124.5833333
+Wakatsuki,Destroyer,11/11/44,10.83333333,124.5833333
+Minesweeper No 30,Minesweeper,11/11/44,10.83333333,124.5166667
+I 37,Submarine,11/12/44,8.066666667,138.05
+I 38,Submarine,11/13/44,31.91666667,-139.75
+Kiso,Light Cruiser,11/13/44,14.58333333,120.8333333
+Akebono,Destroyer,11/13/44,14.58333333,120.8333333
+Akishimo,Destroyer,11/13/44,14.58333333,120.8333333
+Hatsuharu,Destroyer,11/13/44,14.58333333,120.8333333
+Okinami,Destroyer,11/13/44,14.58333333,120.8333333
+Special Submarine Chaser No 116,Special Submarine Chaser,11/13/44,14.5,120.75
+Kurasaki,Miscellaneous Auxiliary,11/14/44,17.45,117.7166667
+Coast Defense Vessel No 7,Frigate,11/14/44,17.76666667,117.95
+I 26,Submarine,11/17/44,12.73333333,130.7
+Jinyo,Escort Aircraft Carrier,11/17/44,33.03333333,123.55
+Hiyodori,Torpedo Boat,11/17/44,16.93333333,110.5
+Special Submarine Chaser No 156,Special Submarine Chaser,11/18/44,33.11666667,123.15
+I 177,Submarine,11/19/44,8.116666667,134.2666667
+Special Minelayer No 4,Special Minelayer,11/20/44,6.916666667,94.25
+Minesweeper No 38,Minesweeper,11/20/44,21.35,119.75
+Kongo,Battleship,11/21/44,26.15,121.3833333
+Urakaze,Destroyer,11/21/44,26.15,121.3833333
+Transport No 151,Tank Landing Ship,11/22/44,11.36666667,119.1166667
+Submarine Chaser No 46,Submarine Chaser,11/24/44,11.58333333,124.1666667
+Transport No 111,Tank Landing Ship,11/24/44,11.58333333,124.1666667
+Transport No 141,Tank Landing Ship,11/24/44,11.58333333,124.1666667
+Transport No 160,Tank Landing Ship,11/24/44,11.58333333,124.1666667
+Kumano,Heavy Cruiser,11/25/44,15.78333333,119.8
+Yasojima,Frigate,11/25/44,15.66666667,119.75
+Transport No 6,High Speed Transport,11/25/44,13.53333333,121.8666667
+Transport No 10,High Speed Transport,11/25/44,13.53333333,121.8666667
+Unknown Lst,Tank Landing Ship,11/25/44,15.66666667,119.75
+Unknown Lst,Tank Landing Ship,11/25/44,15.66666667,119.75
+Unknown Lst,Tank Landing Ship,11/25/44,15.66666667,119.75
+Minesweeper No 18,Minesweeper,11/25/44,16.86666667,108.6333333
+Ro 100,Submarine,11/25/44,7,156
+Coast Defense Vessel No 38,Frigate,11/25/44,14.36666667,119.95
+Patrol Boat No 38,Old Destroyer,11/25/44,20.2,121.85
+Shimotsuki,Destroyer,11/25/44,2.35,107.3333333
+Transport No 161,Tank Landing Ship,11/26/44,16,97
+I 46,Submarine,11/27/44,10.8,124.5833333
+Submarine Chaser No 53,Submarine Chaser,11/28/44,10.98333333,124.55
+Patrol Boat No 105,Yacht,11/28/44,10.98333333,124.55
+I 365,Submarine,11/28/44,34.73333333,141.0166667
+Submarine Chaser No 45,Submarine Chaser,11/29/44,11,124.25
+Shinano,Aircraft Carrier,11/29/44,32,137
+Kuwa,Destroyer,12/3/44,10.83333333,124.5833333
+Coast Defense Vessel No 64,Frigate,12/3/44,18.6,111.9
+Kishinami,Destroyer,12/4/44,13.2,116.6166667
+Iwanami,Destroyer,12/4/44,13.2,116.6166667
+Hozu,Salvage Vessel,12/5/44,4.4,152.3
+Transport No 11,High Speed Transport,12/7/44,11.38333333,124.3
+Uzuki,Destroyer,12/12/44,11.05,124.3833333
+Yuzuki,Destroyer,12/12/44,11.33333333,124.1666667
+Transport No 159,Tank Landing Ship,12/12/44,11.33333333,124.1666667
+Transport No 12,High Speed Transport,12/13/44,20.56666667,118.75
+Transport No 104,Tank Landing Ship,12/13/44,20.56666667,118.75
+Transport No 109,Tank Landing Ship,12/14/44,17.58333333,120.3333333
+Coast Defense Vessel No 28,Frigate,12/14/44,15.76666667,119.75
+Coast Defense Vessel No 54,Frigate,12/15/44,19.41666667,121.4166667
+Transport No 106,Tank Landing Ship,12/15/44,15.5,119.8333333
+Momo,Destroyer,12/15/44,16,117.65
+Unryu,Aircraft Carrier,12/19/44,28.98333333,124.05
+Chidori,Torpedo Boat,12/22/44,34.55,138.0333333
+Transport No 8,High Speed Transport,12/24/44,25.16666667,141
+Transport No 157,Tank Landing Ship,12/24/44,24.78333333,141.3333333
+Kiyoshimo,Destroyer,12/26/44,12.33333333,121
+Transport No 7,High Speed Transport,12/27/44,24.78333333,141.3333333
+Transport No 132,Tank Landing Ship,12/27/44,24.78333333,141.3333333
+Coast Defense Vessel No 20,Frigate,12/30/44,16.5,120.25
+Kuretake,Old Destroyer,12/30/44,21,121.4
+Coast Defense Vessel No 138,Frigate,1/2/45,16.61666667,120.3166667
+Special Submarine Chaser No 10,Special Submarine Chaser,1/3/45,7.066666667,125.6166667
+Transport No 107,Tank Landing Ship,1/5/45,26.45,141.1833333
+Transport No 154,Tank Landing Ship,1/5/45,24.78333333,141.3333333
+Momi,Destroyer,1/5/45,14,120.3333333
+Coast Defense Vessel No 3,Frigate,1/9/45,25.16666667,121.75
+Special Submarine Chaser No 96,Special Submarine Chaser,1/9/45,22.66666667,120
+Submarine Chaser No 61,Submarine Chaser,1/9/45,22.66666667,120.0666667
+Coast Defense Vessel No 42,Frigate,1/10/45,27.01666667,126.5666667
+Chiburi,Frigate,1/12/45,10.33333333,107.8333333
+Coast Defense Vessel No 17,Frigate,1/12/45,10.33333333,107.8333333
+Coast Defense Vessel No 19,Frigate,1/12/45,10.33333333,107.8333333
+Coast Defense Vessel No 23,Frigate,1/12/45,14.25,109.1666667
+Coast Defense Vessel No 35,Frigate,1/12/45,11.16666667,108.9166667
+Coast Defense Vessel No 43,Frigate,1/12/45,11.16666667,108.9166667
+Coast Defense Vessel No 51,Frigate,1/12/45,14.25,109.1666667
+Submarine Chaser No 31,Submarine Chaser,1/12/45,11.16666667,108.9166667
+Submarine Chaser No 43,Submarine Chaser,1/12/45,11.88333333,109.1333333
+Minesweeper No 101,Minesweeper,1/12/45,11.16666667,108.9166667
+Transport No 140,Tank Landing Ship,1/12/45,10.33333333,107.8333333
+Kashii,Training Cruiser,1/12/45,13.83333333,109.3333333
+Patrol Boat No 103,Yacht,1/12/45,11.16666667,108.9166667
+Ro 47,Submarine,1/13/45,12.13333333,154.45
+Yurishima,Special Minelayer,1/14/45,5.85,103.2666667
+Hatakaze,Destroyer,1/15/45,22.61666667,120.25
+Tsuga,Old Destroyer,1/15/45,23.55,119.55
+Transport No 14,High Speed Transport,1/15/45,22.61666667,120.25
+Transport No 15,High Speed Transport,1/17/45,31.15,130.4833333
+Transport No 101,Tank Landing Ship,1/21/45,22.61666667,120.25
+Transport No 102,Tank Landing Ship,1/21/45,11.05,123.0833333
+Shigure,Destroyer,1/24/45,6,103.8
+Special Minesweeper No 102,Special Minesweeper,1/27/45,8.616666667,115.65
+Kume,Frigate,1/28/45,33.93333333,123.1
+Ro 115,Submarine,1/31/45,13.33333333,119.3333333
+Ume,Destroyer,1/31/45,22.5,120
+Transport No 115,Tank Landing Ship,2/1/45,20,121
+Coast Defense Vessel No 144,Frigate,2/2/45,4.533333333,104.5
+Ro 55,Submarine,2/7/45,15.45,119.4166667
+Coast Defense Vessel No 53,Frigate,2/7/45,12.06666667,109.3666667
+I 41,Submarine,2/9/45,18.83333333,121.6666667
+Ro 112,Submarine,2/11/45,18.88333333,121.8333333
+Ro 113,Submarine,2/12/45,19.16666667,121.3833333
+Coast Defense Vessel No 9,Frigate,2/14/45,34.8,125.9666667
+Special Submarine Chaser No 4,Special Submarine Chaser,2/14/45,8.333333333,115.75
+Special Submarine Chaser No 144,Special Submarine Chaser,2/14/45,8.333333333,115.75
+Nariu,Special Minelayer,2/16/45,32.16666667,135.9
+Transport No 114,Tank Landing Ship,2/17/45,23.06666667,120.5
+Coast Defense Vessel No 56,Frigate,2/17/45,33.88333333,139.7166667
+Nokaze,Destroyer,2/20/45,12.8,109.6333333
+Submarine Chaser No 35,Submarine Chaser,2/23/45,10.25,107.5166667
+Yaku,Frigate,2/23/45,12.65,109.4833333
+Ro 49,Submarine,2/24/45,32.66666667,132.55
+I 370,Submarine,2/25/45,22.75,141.45
+Ro 43,Submarine,2/25/45,25.11666667,140.3166667
+Shonan,Frigate,2/25/45,17.13333333,110.0166667
+I 368,Submarine,2/26/45,24.71666667,140.6166667
+Manazuru,Torpedo Boat,3/15/45,26.28333333,127.5833333
+Tsubame,Special Minelayer,3/15/45,24.38333333,124.2
+Transport No 143,Tank Landing Ship,3/10/45,23.58333333,121.5833333
+Hario,Miscellaneous Auxiliary,3/24/45,18.16666667,109.6666667
+Submarine Chaser No 8,Submarine Chaser,3/25/45,4.066666667,100.5833333
+Special Submarine Chaser No 110,Special Submarine Chaser,3/28/45,8.6,119.3166667
+Minesweeper No 15,Minesweeper,3/28/45,29.5,129.55
+Coast Defense Vessel No 69,Frigate,3/29/45,19.03333333,110.9333333
+Coast Defense Vessel No 66,Frigate,3/31/45,23.5,117.1666667
+Transport No 18,High Speed Transport,3/33/1945,26.55,127.1833333
+Suma,River Gunboat,3/11/45,32,120
+Submarine Chaser No 33,Submarine Chaser,3/33/1945,11.83333333,109.3
+Tateishi,Repair Ship,3/11/45,11.83333333,109.3
+I 371,Submarine,3/11/45,22.95,132.3166667
+Coast Defense Vessel No 68,Frigate,3/11/45,28.41666667,124.5333333
+Tomozuru,Frigate,3/12/45,28.41666667,124.5333333
+Submarine Chaser No 34,Submarine Chaser,3/16/45,10.58333333,94.75
+Submarine Chaser No 63,Submarine Chaser,3/25/45,10.58333333,94.75
+Special Minelayer No 1,Special Minelayer,3/10/45,3.866666667,98.75
+Odate,Repair Ship,3/13/45,30.66666667,127.8333333
+Coast Defense Vessel No 33,Frigate,3/13/45,31.75,131.6666667
+Minesweeper No 11,Minesweeper,3/13/45,5.166666667,119.0833333
+Patrol Boat No 108,Yacht,3/14/45,4.25,119.0833333
+Mikura,Frigate,3/15/45,31.81666667,131.7333333
+Coast Defense Vessel No 18,Frigate,3/15/45,14.5,109.25
+Coast Defense Vessel No 130,Frigate,3/24/45,14.65,109.2666667
+Special Submarine Chaser No 192,Special Submarine Chaser,3/30/45,22.66666667,120.25
+Coast Defense Vessel No 84,Frigate,3/10/45,14.5,109.2666667
+I 8,Submarine,3/12/45,25.48333333,128.5833333
+Coast Defense Vessel No 186,Frigate,4/2/45,28.11666667,129.15
+Transport No 17,High Speed Transport,4/2/45,28.11666667,129.15
+Transport No 145,Tank Landing Ship,4/2/45,28.11666667,129.15
+Ro 41,Submarine,4/4/45,26.36666667,126.5
+Ro 64,Submarine,4/4/45,34.23333333,132.2666667
+Ro 67,Submarine,4/4/45,34,133
+Mokuto,Frigate,4/4/45,33.88333333,131.05
+Amatsukaze,Destroyer,4/6/45,24.5,118.1666667
+Coast Defense Vessel No 1,Frigate,4/6/45,24.5,118.1666667
+Coast Defense Vessel No 134,Frigate,4/6/45,24.5,118.1666667
+Minesweeper No 12,Minesweeper,4/6/45,8.216666667,-121.4166667
+Yamato,Battleship,4/7/45,30.9,128.1666667
+Yahagi,Light Cruiser,4/7/45,30.9,128.1666667
+Asashimo,Destroyer,4/7/45,31,128
+Hamakaze,Destroyer,4/7/45,31,128
+Isokaze,Destroyer,4/7/45,31,128
+Kasumi,Destroyer,4/7/45,31,128
+Isuzu,Light Cruiser,4/7/45,7.633333333,118.15
+Ro 46,Submarine,4/8/45,26.15,130.35
+Special Submarine Chaser No 101,Special Submarine Chaser,4/8/45,4.583333333,122.2833333
+Minesweeper No 3,Minesweeper,4/9/45,39.1,141.95
+I 44,Submarine,4/10/45,23.2,132.3833333
+Submarine Chaser No 7,Submarine Chaser,4/11/45,8.95,93.63333333
+Special Minesweeper No 104,Special Minesweeper,4/13/45,8.083333333,115.1
+Coast Defense Vessel No 31,Frigate,4/14/45,33.41666667,126.25
+Nomi,Frigate,4/14/45,33.41666667,126.25
+Coast Defense Vessel No 73,Frigate,4/16/45,39.6,142.0833333
+I 56,Submarine,4/17/45,26.7,130.6333333
+Ro 56,Submarine,4/17/45,19.28333333,166.5833333
+Minesweeper No 41,Minesweeper,4/25/45,25.88333333,121.1333333
+Special Minesweeper No 3,Special Minesweeper,4/26/45,4.833333333,115.6666667
+Submarine Chaser No 17,Submarine Chaser,4/28/45,32.56666667,128.8666667
+Transport No 146,Tank Landing Ship,4/28/45,32.4,128.6666667
+Hatsushima,Repair Ship,4/28/45,33.96666667,136.2833333
+Ro 109,Submarine,4/29/45,24.25,131.2666667
+Ojika,Frigate,5/2/45,33.96666667,122.9666667
+Coast Defense Vessel No 25,Frigate,5/3/45,34.63333333,124.25
+Minesweeper No 20,Minesweeper,5/4/45,34.26666667,123.6166667
+Minesweeper No 29,Minesweeper,5/7/45,34.03333333,130.9
+Special Submarine Chaser No 210,Special Submarine Chaser,5/8/45,23,115
+Hatsutaka,Minelayer,5/16/45,4.9,103.4666667
+Haguro,Heavy Cruiser,5/16/45,5,99.5
+Minesweeper No 34,Minesweeper,5/21/45,6.25,116.0166667
+Submarine Chaser No 37,Submarine Chaser,5/22/45,29.75,129.1666667
+Submarine Chaser No 58,Submarine Chaser,5/22/45,29.75,129.1666667
+Transport No 173,Tank Landing Ship,5/22/45,29.75,129.1666667
+Special Minesweeper No 105,Special Minesweeper,5/25/45,6.383333333,110.9166667
+Special Submarine Chaser No 172,Special Submarine Chaser,5/26/45,36.8,137.0833333
+Coast Defense Vessel No 29,Frigate,5/28/45,33.11666667,129.7333333
+I 12,Submarine,5/30/45,22.36666667,134.15
+I 361,Submarine,6/33/1945,20.36667,134.15
+Special Submarine Chaser No 112,Special Submarine Chaser,6/4/45,5,116.0666667
+Special Submarine Chaser No 195,Special Submarine Chaser,6/6/45,37.16666667,137.0833333
+Ashigara,Heavy Cruiser,6/8/45,1.983333333,104.95
+Coast Defense Vessel No 41,Frigate,6/9/45,34.3,127.3
+I 122,Submarine,6/10/45,37.48333333,137.4166667
+Special Submarine Chaser No 237,Special Submarine Chaser,6/11/45,34.58333333,132.3333333
+Submarine Chaser No 57,Submarine Chaser,6/12/45,6.333333333,94.75
+Transport No 149,Tank Landing Ship,6/12/45,6.333333333,94.75
+Shuttle Boat No 833,Miscellaneous Auxiliary,6/23/45,5.833333333,114.3
+Special Submarine Chaser No 42,Special Submarine Chaser,6/23/45,5.833333333,114.3
+Special Submarine Chaser No 113,Special Submarine Chaser,6/23/45,5.833333333,114.3
+I 165,Submarine,6/27/45,15.46666667,153.65
+Submarine Chaser No 2,Submarine Chaser,6/27/45,7.416666667,116
+Enoki,Destroyer,6/28/45,35.43333333,135.7333333
+Coast Defense Vessel No 72,Frigate,7/1/45,38.13333333,124.6333333
+Special Submarine Chaser No 188,Special Submarine Chaser,7/2/45,33.98333333,130.8666667
+Special Submarine Chaser No 37,Special Submarine Chaser,7/5/45,8.166666667,114.8333333
+Nara,Destroyer,7/7/45,33.9,130.8166667
+Special Submarine Chaser No 50,Special Submarine Chaser,7/9/45,2.216666667,105.05
+Minesweeper No 27,Minesweeper,7/10/45,39.33333333,142.1166667
+Sakura,Destroyer,7/11/45,35.83333333,135.3333333
+Tachibana,Destroyer,7/14/45,41.8,140.6833333
+Coast Defense Vessel No 65,Frigate,7/14/45,42.35,140.9833333
+Coast Defense Vessel No 74,Frigate,7/14/45,42.35,140.9833333
+Coast Defense Vessel No 219,Frigate,7/14/45,41.8,140.6833333
+I 351,Submarine,7/14/45,4.5,110
+Minesweeper No 24,Minesweeper,7/15/45,41.63333333,141
+I 13,Submarine,7/15/45,34.46666667,150.9166667
+Kari,Torpedo Boat,7/16/45,5.8,115.8833333
+Kasuga,Old Heavy Cruiser,7/18/45,35.3,139.6666667
+Coast Defense Vessel No 112,Frigate,7/18/45,46.05,142.2666667
+Minesweeper No 39,Minesweeper,7/20/45,35.01666667,125.7
+Special Submarine Chaser No 117,Special Submarine Chaser,7/23/45,8.166666667,115.4833333
+Amagi,Aircraft Carrier,7/24/45,34.18333333,132.5
+Tone,Heavy Cruiser,7/24/45,34.23333333,132.45
+Hyuga,Battleship,7/24/45,34.16666667,132.55
+Kaiyo,Escort Aircraft Carrier,7/24/45,33.35,131.5333333
+Patrol Boat No 2,Old Destroyer,7/25/45,7.116666667,115.6666667
+Transport No 176,Tank Landing Ship,7/27/45,31,130.55
+Aoba,Heavy Cruiser,7/28/45,34.21666667,132.5166667
+I 372,Submarine,7/28/45,33,133
+Haruna,Battleship,7/28/45,34.25,132.4833333
+Ise,Battleship,7/28/45,34.2,132.5166667
+Oyodo,Light Cruiser,7/28/45,34.21666667,132.4166667
+Nashi,Destroyer,7/28/45,34.23333333,132.5
+Coast Defense Vessel No 4,Frigate,7/28/45,34,134.8333333
+Coast Defense Vessel No 30,Frigate,7/28/45,34.71666667,136.7166667
+Iwate,Old Heavy Cruiser,7/28/45,34.23333333,132.5
+Izumo,Old Heavy Cruiser,7/28/45,34.23333333,132.5
+Special Submarine Chaser No 207,Special Submarine Chaser,7/29/45,32,130
+Okinawa,Frigate,7/30/45,35.5,135.35
+Hatsushimo,Destroyer,7/30/45,35.55,135.2
+Coast Defense Vessel No 39,Frigate,8/7/45,35.1,129.05
+Special Submarine Chaser No 66,Special Submarine Chaser,8/7/45,7.383333333,151.8833333
+Amakusa,Frigate,8/9/45,38.43333333,141.5
+Inagi,Frigate,8/9/45,38.43333333,141.5
+Minesweeper No 1,Minesweeper,8/9/45,38.43333333,141.5
+Minesweeper No 33,Minesweeper,8/9/45,38.43333333,141.5
+Transport No 21,High Speed Transport,8/9/45,33.98333333,132.5166667
+Coast Defense Vessel No 82,Frigate,8/9/45,41.35,131.2
+Submarine Chaser No 42,Submarine Chaser,8/10/45,38.43333333,141.5
+I 373,Submarine,8/13/45,29.03333333,123.8833333
+Coast Defense Vessel No 6,Frigate,8/13/45,42.18333333,142.2333333
+Coast Defense Vessel No 13,Frigate,8/14/45,35.7,134.5833333
+Coast Defense Vessel No 47,Frigate,8/14/45,35.7,134.6
+Kanju,Frigate,8/15/45,39.16666667,127.45

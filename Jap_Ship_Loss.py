@@ -19,9 +19,9 @@ from shapely.geometry import Point, Polygon
 from IPython.display import display
 
 
-
+#If you're wanting to create the video yourself then uncomment the line and set ffmpeg directory to your repsective location
 #Specify FFMpeg directory
-mpl.rcParams['animation.ffmpeg_path'] = r'/Users/Revilo/Desktop/ffmpeg'
+#mpl.rcParams['animation.ffmpeg_path'] = r'directory here'
 
 #Import data and verify its imported in console
 data = pd.read_csv('Jap_Ship_Mod.csv')
@@ -180,7 +180,7 @@ ani = animation.FuncAnimation(fig, animate, frames = 686, interval= 3000, repeat
 plt.close()
 
 #To save animation as video (FFMpegWriter has to have its executable directory specified)
-writer = animation.FFMpegWriter(fps=1)
-ani.save("Jap_ship.mp4", dpi=300, writer=writer)
+#writer = animation.FFMpegWriter(fps=1)
+#ani.save("Jap_ship.mp4", dpi=300, writer=writer)
 
 
